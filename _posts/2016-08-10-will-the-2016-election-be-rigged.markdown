@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-08-10 21:18:39+00:00
+date: 2016-08-10 21:18:39 +0000
 layout: post
 link: http://jessemackinnon.com/2016/08/will-the-2016-election-be-rigged/
 slug: will-the-2016-election-be-rigged

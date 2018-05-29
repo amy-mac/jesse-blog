@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-10-02 19:55:31+00:00
+date: 2015-10-02 19:55:31 +0000
 layout: post
 link: http://jessemackinnon.com/2015/10/mass-violence/
 slug: mass-violence

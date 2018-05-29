@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-10-10 08:24:43+00:00
+date: 2016-10-10 08:24:43 +0000
 layout: post
 link: http://jessemackinnon.com/2016/10/im-with-her/
 slug: im-with-her

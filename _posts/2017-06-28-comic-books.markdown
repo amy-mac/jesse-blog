@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-28 04:01:19+00:00
+date: 2017-06-28 04:01:19 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/comic-books/
 slug: comic-books

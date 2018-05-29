@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-10-27 23:30:36+00:00
+date: 2015-10-27 23:30:36 +0000
 layout: post
 link: http://jessemackinnon.com/2015/10/star-trek-where-no-man-has-gone-before/
 slug: star-trek-where-no-man-has-gone-before

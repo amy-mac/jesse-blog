@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-04-11 18:00:10+00:00
+date: 2015-04-11 18:00:10 +0000
 layout: post
 link: http://jessemackinnon.com/2015/04/alexander-the-great-was-a-grad-student/
 slug: alexander-the-great-was-a-grad-student

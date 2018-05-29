@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2014-11-28 19:00:29+00:00
+date: 2014-11-28 19:00:29 +0000
 layout: post
 link: http://jessemackinnon.com/2014/11/black-friday/
 slug: black-friday

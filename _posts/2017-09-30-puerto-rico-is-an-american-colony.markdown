@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-09-30 20:45:17+00:00
+date: 2017-09-30 20:45:17 +0000
 layout: post
 link: http://jessemackinnon.com/2017/09/puerto-rico-is-an-american-colony/
 slug: puerto-rico-is-an-american-colony
@@ -13,7 +13,7 @@ categories:
 tags:
 - Imperialism
 - Puerto Rico
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 <img src="/images/2017/Ponce_Massacre.jpg">

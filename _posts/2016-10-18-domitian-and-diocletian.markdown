@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-10-18 04:41:00+00:00
+date: 2016-10-18 04:41:00 +0000
 layout: post
 link: http://jessemackinnon.com/2016/10/domitian-and-diocletian/
 slug: domitian-and-diocletian

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-01-07 19:00:35+00:00
+date: 2015-01-07 19:00:35 +0000
 layout: post
 link: http://jessemackinnon.com/2015/01/charlie-hebdo/
 slug: charlie-hebdo

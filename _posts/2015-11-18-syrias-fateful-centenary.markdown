@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-18 19:15:07+00:00
+date: 2015-11-18 19:15:07 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/syrias-fateful-centenary/
 slug: syrias-fateful-centenary

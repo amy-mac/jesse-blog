@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2014-11-16 19:00:42+00:00
+date: 2014-11-16 19:00:42 +0000
 layout: post
 link: http://jessemackinnon.com/2014/11/social-criticism-and-the-media/
 slug: social-criticism-and-the-media

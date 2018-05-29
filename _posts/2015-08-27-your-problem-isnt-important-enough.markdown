@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-08-27 18:32:37+00:00
+date: 2015-08-27 18:32:37 +0000
 layout: post
 link: http://jessemackinnon.com/2015/08/your-problem-isnt-important-enough/
 slug: your-problem-isnt-important-enough

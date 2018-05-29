@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-12-03 17:28:08+00:00
+date: 2015-12-03 17:28:08 +0000
 layout: post
 link: http://jessemackinnon.com/2015/12/i-want-to-know-more-about-firearms-why-wont-the-nra-let-me/
 slug: i-want-to-know-more-about-firearms-why-wont-the-nra-let-me

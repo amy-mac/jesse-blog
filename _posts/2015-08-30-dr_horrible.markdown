@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-08-30 19:53:51+00:00
+date: 2015-08-30 19:53:51 +0000
 layout: post
 link: http://jessemackinnon.com/2015/08/dr_horrible/
 slug: dr_horrible

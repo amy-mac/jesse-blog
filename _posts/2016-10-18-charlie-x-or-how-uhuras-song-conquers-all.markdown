@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-10-18 05:25:28+00:00
+date: 2016-10-18 05:25:28 +0000
 layout: post
 link: http://jessemackinnon.com/2016/10/charlie-x-or-how-uhuras-song-conquers-all/
 slug: charlie-x-or-how-uhuras-song-conquers-all

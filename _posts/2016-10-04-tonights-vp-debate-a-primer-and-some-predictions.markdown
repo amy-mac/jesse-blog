@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-10-04 21:09:01+00:00
+date: 2016-10-04 21:09:01 +0000
 layout: post
 link: http://jessemackinnon.com/2016/10/tonights-vp-debate-a-primer-and-some-predictions/
 slug: tonights-vp-debate-a-primer-and-some-predictions

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-07-04 17:48:17+00:00
+date: 2017-07-04 17:48:17 +0000
 layout: post
 link: http://jessemackinnon.com/2017/07/union-and-unity/
 slug: union-and-unity

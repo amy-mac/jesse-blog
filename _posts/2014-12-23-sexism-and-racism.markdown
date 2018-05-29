@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2014-12-23 19:00:47+00:00
+date: 2014-12-23 19:00:47 +0000
 layout: post
 link: http://jessemackinnon.com/2014/12/sexism-and-racism/
 slug: sexism-and-racism

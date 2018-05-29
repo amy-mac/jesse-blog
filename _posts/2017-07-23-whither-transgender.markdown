@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-07-23 01:40:01+00:00
+date: 2017-07-23 01:40:01 +0000
 layout: post
 link: http://jessemackinnon.com/2017/07/whither-transgender/
 slug: whither-transgender

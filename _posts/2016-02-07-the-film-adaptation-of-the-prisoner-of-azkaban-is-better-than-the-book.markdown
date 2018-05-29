@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-02-07 21:08:25+00:00
+date: 2016-02-07 21:08:25 +0000
 layout: post
 link: http://jessemackinnon.com/2016/02/the-film-adaptation-of-the-prisoner-of-azkaban-is-better-than-the-book/
 slug: the-film-adaptation-of-the-prisoner-of-azkaban-is-better-than-the-book

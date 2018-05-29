@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-07-08 05:57:27+00:00
+date: 2016-07-08 05:57:27 +0000
 layout: post
 link: http://jessemackinnon.com/2016/07/dallas-and-black-lives-matter/
 slug: dallas-and-black-lives-matter

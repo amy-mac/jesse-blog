@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-07-28 06:39:36+00:00
+date: 2017-07-28 06:39:36 +0000
 layout: post
 link: http://jessemackinnon.com/2017/07/the-fate-of-the-gracchi/
 slug: the-fate-of-the-gracchi
@@ -12,7 +12,7 @@ categories:
 tags:
 - Caesar
 - Rome
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 <img src="/images/2017/gracci.jpeg" alt="">

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-09-04 19:46:55+00:00
+date: 2015-09-04 19:46:55 +0000
 layout: post
 link: http://jessemackinnon.com/2015/09/fence_elephant_hairpiece/
 slug: fence_elephant_hairpiece

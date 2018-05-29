@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-09-09 20:33:44+00:00
+date: 2016-09-09 20:33:44 +0000
 layout: post
 link: http://jessemackinnon.com/2016/09/the-original-star-trek-a-recommended-episode-order/
 slug: the-original-star-trek-a-recommended-episode-order

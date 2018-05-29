@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-02-17 16:36:51+00:00
+date: 2017-02-17 16:36:51 +0000
 layout: post
 link: http://jessemackinnon.com/2017/02/the-future-of-general-leia/
 slug: the-future-of-general-leia

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-01-26 19:37:56+00:00
+date: 2016-01-26 19:37:56 +0000
 layout: post
 link: http://jessemackinnon.com/2016/01/clinton-sanders-and-the-last-21-years/
 slug: clinton-sanders-and-the-last-21-years

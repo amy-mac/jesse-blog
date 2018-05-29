@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-12-09 21:36:12+00:00
+date: 2015-12-09 21:36:12 +0000
 layout: post
 link: http://jessemackinnon.com/2015/12/the-corbomite-maneuver/
 slug: the-corbomite-maneuver

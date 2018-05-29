@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-09-01 06:03:24+00:00
+date: 2016-09-01 06:03:24 +0000
 layout: post
 link: http://jessemackinnon.com/2016/08/racism-and-republicans/
 slug: racism-and-republicans

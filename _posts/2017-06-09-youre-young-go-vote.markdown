@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-09 04:59:49+00:00
+date: 2017-06-09 04:59:49 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/youre-young-go-vote/
 slug: youre-young-go-vote

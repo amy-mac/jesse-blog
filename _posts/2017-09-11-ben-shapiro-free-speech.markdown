@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-09-11 17:54:36+00:00
+date: 2017-09-11 17:54:36 +0000
 layout: post
 link: http://jessemackinnon.com/2017/09/ben-shapiro-free-speech/
 slug: ben-shapiro-free-speech
@@ -15,7 +15,7 @@ tags:
 - brietbart
 - Free Speech
 - ucla
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 <img src="/images/2017/ben-shapiro.jpg">

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-04 05:15:18+00:00
+date: 2015-11-04 05:15:18 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/star-trek-fans-suck/
 slug: star-trek-fans-suck

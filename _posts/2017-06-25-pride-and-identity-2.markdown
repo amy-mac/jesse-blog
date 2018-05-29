@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-25 18:05:16+00:00
+date: 2017-06-25 18:05:16 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/pride-and-identity-2/
 slug: pride-and-identity-2

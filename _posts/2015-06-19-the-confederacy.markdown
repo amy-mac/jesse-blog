@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-06-19 18:00:26+00:00
+date: 2015-06-19 18:00:26 +0000
 layout: post
 link: http://jessemackinnon.com/2015/06/the-confederacy/
 slug: the-confederacy

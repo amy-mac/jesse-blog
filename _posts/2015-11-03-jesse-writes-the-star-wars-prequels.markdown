@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-03 17:00:44+00:00
+date: 2015-11-03 17:00:44 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/jesse-writes-the-star-wars-prequels/
 slug: jesse-writes-the-star-wars-prequels

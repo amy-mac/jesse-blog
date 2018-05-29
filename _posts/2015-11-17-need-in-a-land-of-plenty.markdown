@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-17 18:03:32+00:00
+date: 2015-11-17 18:03:32 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/need-in-a-land-of-plenty/
 slug: need-in-a-land-of-plenty

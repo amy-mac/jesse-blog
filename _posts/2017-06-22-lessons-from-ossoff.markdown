@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-22 02:44:05+00:00
+date: 2017-06-22 02:44:05 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/lessons-from-ossoff/
 slug: lessons-from-ossoff

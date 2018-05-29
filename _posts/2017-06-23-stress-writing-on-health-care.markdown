@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-23 21:19:01+00:00
+date: 2017-06-23 21:19:01 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/stress-writing-on-health-care/
 slug: stress-writing-on-health-care

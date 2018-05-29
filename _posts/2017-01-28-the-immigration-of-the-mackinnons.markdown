@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-01-28 00:41:51+00:00
+date: 2017-01-28 00:41:51 +0000
 layout: post
 link: http://jessemackinnon.com/2017/01/the-immigration-of-the-mackinnons/
 slug: the-immigration-of-the-mackinnons

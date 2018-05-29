@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-04-23 01:52:05+00:00
+date: 2017-04-23 01:52:05 +0000
 layout: post
 link: http://jessemackinnon.com/2017/04/the-science-march/
 slug: the-science-march

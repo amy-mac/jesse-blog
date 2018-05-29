@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-07-27 19:26:17+00:00
+date: 2017-07-27 19:26:17 +0000
 layout: post
 link: http://jessemackinnon.com/2017/07/gender-roles-and-historical-memory/
 slug: gender-roles-and-historical-memory

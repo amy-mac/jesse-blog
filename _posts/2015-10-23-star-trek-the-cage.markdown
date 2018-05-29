@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-10-23 19:17:19+00:00
+date: 2015-10-23 19:17:19 +0000
 layout: post
 link: http://jessemackinnon.com/2015/10/star-trek-the-cage/
 slug: star-trek-the-cage

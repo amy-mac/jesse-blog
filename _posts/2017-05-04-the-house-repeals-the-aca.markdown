@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-05-04 23:24:58+00:00
+date: 2017-05-04 23:24:58 +0000
 layout: post
 link: http://jessemackinnon.com/2017/05/the-house-repeals-the-aca/
 slug: the-house-repeals-the-aca

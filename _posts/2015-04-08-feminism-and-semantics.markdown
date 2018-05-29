@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-04-08 18:00:53+00:00
+date: 2015-04-08 18:00:53 +0000
 layout: post
 link: http://jessemackinnon.com/2015/04/feminism-and-semantics/
 slug: feminism-and-semantics

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-14 01:25:11+00:00
+date: 2015-11-14 01:25:11 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/terrorism/
 slug: terrorism

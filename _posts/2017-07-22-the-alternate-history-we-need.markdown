@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-07-22 17:07:45+00:00
+date: 2017-07-22 17:07:45 +0000
 layout: post
 link: http://jessemackinnon.com/2017/07/the-alternate-history-we-need/
 slug: the-alternate-history-we-need

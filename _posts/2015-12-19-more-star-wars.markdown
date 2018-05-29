@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-12-19 06:25:04+00:00
+date: 2015-12-19 06:25:04 +0000
 layout: post
 link: http://jessemackinnon.com/2015/12/more-star-wars/
 slug: more-star-wars

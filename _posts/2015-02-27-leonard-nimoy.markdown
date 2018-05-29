@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-02-27 18:30:20+00:00
+date: 2015-02-27 18:30:20 +0000
 layout: post
 link: http://jessemackinnon.com/2015/02/leonard-nimoy/
 slug: leonard-nimoy

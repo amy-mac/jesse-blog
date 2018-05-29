@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-03-07 17:05:53+00:00
+date: 2017-03-07 17:05:53 +0000
 layout: post
 link: http://jessemackinnon.com/2017/03/he-owns-things/
 slug: he-owns-things

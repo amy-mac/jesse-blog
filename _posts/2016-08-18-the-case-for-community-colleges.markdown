@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-08-18 18:26:24+00:00
+date: 2016-08-18 18:26:24 +0000
 layout: post
 link: http://jessemackinnon.com/2016/08/the-case-for-community-colleges/
 slug: the-case-for-community-colleges

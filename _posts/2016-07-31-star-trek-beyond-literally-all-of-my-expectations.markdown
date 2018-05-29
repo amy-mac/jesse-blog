@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-07-31 07:00:44+00:00
+date: 2016-07-31 07:00:44 +0000
 layout: post
 link: http://jessemackinnon.com/2016/07/star-trek-beyond-literally-all-of-my-expectations/
 slug: star-trek-beyond-literally-all-of-my-expectations

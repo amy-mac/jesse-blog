@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-02-26 00:59:37+00:00
+date: 2017-02-26 00:59:37 +0000
 layout: post
 link: http://jessemackinnon.com/2017/02/ideological-diversification/
 slug: ideological-diversification

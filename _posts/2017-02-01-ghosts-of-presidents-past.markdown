@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-02-01 00:32:43+00:00
+date: 2017-02-01 00:32:43 +0000
 layout: post
 link: http://jessemackinnon.com/2017/01/ghosts-of-presidents-past/
 slug: ghosts-of-presidents-past

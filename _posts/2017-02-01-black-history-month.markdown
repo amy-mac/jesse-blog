@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-02-01 16:29:07+00:00
+date: 2017-02-01 16:29:07 +0000
 layout: post
 link: http://jessemackinnon.com/2017/02/black-history-month/
 slug: black-history-month

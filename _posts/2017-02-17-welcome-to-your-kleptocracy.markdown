@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-02-17 00:04:24+00:00
+date: 2017-02-17 00:04:24 +0000
 layout: post
 link: http://jessemackinnon.com/2017/02/welcome-to-your-kleptocracy/
 slug: welcome-to-your-kleptocracy

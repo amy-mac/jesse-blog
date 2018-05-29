@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-17 16:48:50+00:00
+date: 2015-11-17 16:48:50 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/return-of-statue-of-liberty-to-france/
 slug: return-of-statue-of-liberty-to-france

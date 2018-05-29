@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-09-21 00:12:43+00:00
+date: 2017-09-21 00:12:43 +0000
 layout: post
 link: http://jessemackinnon.com/2017/09/the-cage-revisited/
 slug: the-cage-revisited
@@ -14,7 +14,7 @@ tags:
 - Pike
 - Spock
 - The Cage
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 <img src="/images/2017/the-cage.jpg">
 

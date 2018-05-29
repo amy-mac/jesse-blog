@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-05-11 14:40:18+00:00
+date: 2017-05-11 14:40:18 +0000
 layout: post
 link: http://jessemackinnon.com/2017/05/rigged-systems-and-voter-suppression/
 slug: rigged-systems-and-voter-suppression

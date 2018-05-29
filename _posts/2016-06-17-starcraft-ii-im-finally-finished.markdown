@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-06-17 05:08:51+00:00
+date: 2016-06-17 05:08:51 +0000
 layout: post
 link: http://jessemackinnon.com/2016/06/starcraft-ii-im-finally-finished/
 slug: starcraft-ii-im-finally-finished

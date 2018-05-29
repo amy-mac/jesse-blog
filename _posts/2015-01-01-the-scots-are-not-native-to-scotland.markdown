@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-01-01 19:00:11+00:00
+date: 2015-01-01 19:00:11 +0000
 layout: post
 link: http://jessemackinnon.com/2015/01/the-scots-are-not-native-to-scotland/
 slug: the-scots-are-not-native-to-scotland

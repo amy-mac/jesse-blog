@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2014-11-25 19:00:20+00:00
+date: 2014-11-25 19:00:20 +0000
 layout: post
 link: http://jessemackinnon.com/2014/11/race-class-and-zombies/
 slug: race-class-and-zombies

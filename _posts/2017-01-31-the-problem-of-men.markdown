@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-01-31 00:34:44+00:00
+date: 2017-01-31 00:34:44 +0000
 layout: post
 link: http://jessemackinnon.com/2017/01/the-problem-of-men/
 slug: the-problem-of-men

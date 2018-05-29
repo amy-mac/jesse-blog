@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-10-11 01:03:23+00:00
+date: 2016-10-11 01:03:23 +0000
 layout: post
 link: http://jessemackinnon.com/2016/10/will-the-election-be-rigged-volume-2/
 slug: will-the-election-be-rigged-volume-2

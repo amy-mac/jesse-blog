@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-12-18 07:08:34+00:00
+date: 2015-12-18 07:08:34 +0000
 layout: post
 link: http://jessemackinnon.com/2015/12/the-force-awakens-an-initial-review/
 slug: the-force-awakens-an-initial-review

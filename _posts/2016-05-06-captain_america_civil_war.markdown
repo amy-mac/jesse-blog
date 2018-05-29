@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-05-06 16:53:53+00:00
+date: 2016-05-06 16:53:53 +0000
 layout: post
 link: http://jessemackinnon.com/2016/05/captain_america_civil_war/
 slug: captain_america_civil_war

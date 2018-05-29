@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-14 17:11:38+00:00
+date: 2017-06-14 17:11:38 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/what-do-mass-shootings-have-in-common/
 slug: what-do-mass-shootings-have-in-common

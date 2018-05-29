@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-04-28 05:00:30+00:00
+date: 2015-04-28 05:00:30 +0000
 layout: post
 link: http://jessemackinnon.com/2015/04/rioting-and-privilege/
 slug: rioting-and-privilege

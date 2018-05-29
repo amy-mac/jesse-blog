@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-05-18 18:00:16+00:00
+date: 2015-05-18 18:00:16 +0000
 layout: post
 link: http://jessemackinnon.com/2015/05/sexual-violence-and-television/
 slug: sexual-violence-and-television

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-06-12 04:36:35+00:00
+date: 2017-06-12 04:36:35 +0000
 layout: post
 link: http://jessemackinnon.com/2017/06/so-you-want-a-controversial-shakespeare-adaptation/
 slug: so-you-want-a-controversial-shakespeare-adaptation

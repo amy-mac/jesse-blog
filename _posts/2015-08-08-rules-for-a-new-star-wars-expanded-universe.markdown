@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-08-08 21:42:22+00:00
+date: 2015-08-08 21:42:22 +0000
 layout: post
 link: http://jessemackinnon.com/2015/08/rules-for-a-new-star-wars-expanded-universe/
 slug: rules-for-a-new-star-wars-expanded-universe

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-07-12 23:14:38+00:00
+date: 2017-07-12 23:14:38 +0000
 layout: post
 link: http://jessemackinnon.com/2017/07/impeachment/
 slug: impeachment

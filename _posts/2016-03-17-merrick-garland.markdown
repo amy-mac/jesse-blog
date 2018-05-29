@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-03-17 20:58:27+00:00
+date: 2016-03-17 20:58:27 +0000
 layout: post
 link: http://jessemackinnon.com/2016/03/merrick-garland/
 slug: merrick-garland

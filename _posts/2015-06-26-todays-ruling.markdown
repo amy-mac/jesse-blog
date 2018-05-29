@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-06-26 18:00:20+00:00
+date: 2015-06-26 18:00:20 +0000
 layout: post
 link: http://jessemackinnon.com/2015/06/todays-ruling/
 slug: todays-ruling

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-10-26 04:07:43+00:00
+date: 2015-10-26 04:07:43 +0000
 layout: post
 link: http://jessemackinnon.com/2015/10/if-winnie-the-pooh-worked-at-a-tech-company/
 slug: if-winnie-the-pooh-worked-at-a-tech-company

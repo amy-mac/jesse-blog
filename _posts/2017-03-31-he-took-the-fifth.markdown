@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-03-31 22:06:00+00:00
+date: 2017-03-31 22:06:00 +0000
 layout: post
 link: http://jessemackinnon.com/2017/03/he-took-the-fifth/
 slug: he-took-the-fifth

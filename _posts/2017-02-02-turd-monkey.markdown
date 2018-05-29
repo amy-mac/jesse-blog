@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-02-02 00:26:04+00:00
+date: 2017-02-02 00:26:04 +0000
 layout: post
 link: http://jessemackinnon.com/2017/02/turd-monkey/
 slug: turd-monkey

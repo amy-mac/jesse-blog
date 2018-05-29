@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-09-09 15:30:20+00:00
+date: 2016-09-09 15:30:20 +0000
 layout: post
 link: http://jessemackinnon.com/2016/09/the-man-trap-or-how-to-rope-all-those-outer-limits-viewers-in/
 slug: the-man-trap-or-how-to-rope-all-those-outer-limits-viewers-in

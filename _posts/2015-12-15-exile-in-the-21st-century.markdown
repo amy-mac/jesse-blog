@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-12-15 16:41:17+00:00
+date: 2015-12-15 16:41:17 +0000
 layout: post
 link: http://jessemackinnon.com/2015/12/exile-in-the-21st-century/
 slug: exile-in-the-21st-century

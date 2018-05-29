@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-11-10 00:23:22+00:00
+date: 2016-11-10 00:23:22 +0000
 layout: post
 link: http://jessemackinnon.com/2016/11/i-am-racist/
 slug: i-am-racist

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-09-30 14:00:52+00:00
+date: 2015-09-30 14:00:52 +0000
 layout: post
 link: http://jessemackinnon.com/2015/09/i-stand-with-planned-parenthood/
 slug: i-stand-with-planned-parenthood

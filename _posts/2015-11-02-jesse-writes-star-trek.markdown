@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-11-02 19:57:29+00:00
+date: 2015-11-02 19:57:29 +0000
 layout: post
 link: http://jessemackinnon.com/2015/11/jesse-writes-star-trek/
 slug: jesse-writes-star-trek

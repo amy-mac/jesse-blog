@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-08-07 16:32:39+00:00
+date: 2017-08-07 16:32:39 +0000
 layout: post
 link: http://jessemackinnon.com/2017/08/war-is-failure/
 slug: war-is-failure

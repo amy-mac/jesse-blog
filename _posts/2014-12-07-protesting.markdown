@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2014-12-07 19:00:57+00:00
+date: 2014-12-07 19:00:57 +0000
 layout: post
 link: http://jessemackinnon.com/2014/12/protesting/
 slug: protesting

@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2015-10-22 18:53:11+00:00
+date: 2015-10-22 18:53:11 +0000
 layout: post
 link: http://jessemackinnon.com/2015/10/star-trek-genesis/
 slug: star-trek-genesis

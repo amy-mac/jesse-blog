@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2017-09-26 17:40:09+00:00
+date: 2017-09-26 17:40:09 +0000
 layout: post
 link: http://jessemackinnon.com/2017/09/star-trek-is-dead/
 slug: star-trek-is-dead
@@ -13,7 +13,7 @@ tags:
 - Discovery
 - Klingons
 - Michael Burnham
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 <img src="/images/2017/Spock_funeral.jpg">

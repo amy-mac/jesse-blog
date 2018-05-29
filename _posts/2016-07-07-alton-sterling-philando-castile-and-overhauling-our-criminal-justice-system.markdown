@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-07-07 15:12:17+00:00
+date: 2016-07-07 15:12:17 +0000
 layout: post
 link: http://jessemackinnon.com/2016/07/alton-sterling-philando-castile-and-overhauling-our-criminal-justice-system/
 slug: alton-sterling-philando-castile-and-overhauling-our-criminal-justice-system

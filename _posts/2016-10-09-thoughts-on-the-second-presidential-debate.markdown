@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-10-09 19:19:06+00:00
+date: 2016-10-09 19:19:06 +0000
 layout: post
 link: http://jessemackinnon.com/2016/10/thoughts-on-the-second-presidential-debate/
 slug: thoughts-on-the-second-presidential-debate

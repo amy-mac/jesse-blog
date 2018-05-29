@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-08-21 05:33:00+00:00
+date: 2016-08-21 05:33:00 +0000
 layout: post
 link: http://jessemackinnon.com/2016/08/star-trek-16-the-dream-ticket/
 slug: star-trek-16-the-dream-ticket

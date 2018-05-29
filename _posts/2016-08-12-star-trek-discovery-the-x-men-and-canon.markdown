@@ -1,7 +1,7 @@
 ---
 author: jesse
 comments: true
-date: 2016-08-12 05:56:30+00:00
+date: 2016-08-12 05:56:30 +0000
 layout: post
 link: http://jessemackinnon.com/2016/08/star-trek-discovery-the-x-men-and-canon/
 slug: star-trek-discovery-the-x-men-and-canon
