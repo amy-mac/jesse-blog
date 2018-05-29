@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jessemackinnon.com" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 paginate: 12
+permalink: /:year/:month/:title/
 
 twitter_username: jessethemac
 
