@@ -1,0 +1,54 @@
+---
+author: jesse
+comments: true
+date: 2016-02-02 15:56:36+00:00
+layout: post
+link: http://jessemackinnon.com/2016/02/elephants-in-iowa-2016/
+slug: elephants-in-iowa-2016
+title: Elephants in Iowa, 2016.
+wordpress_id: 293
+categories:
+- Politics
+tags:
+- Convention
+- Donald Trump
+- Iowa
+- Marco Rubio
+- Republicans
+- Ted Cruz
+---
+
+## Why the Republican Party is headed towards a brokered convention.
+
+
+The big “winner” of last night: Senator Ted Cruz, with his “come-from-behind” victory. Cruz crowed that, “Tonight is a victory for the grass roots. Tonight is a victory for courageous conservatives across Iowa and across this great nation.” Modern politics being the horse race that it is, much of the media is taking this narrative and running with it.
+
+Cruz’s “victory” is certainly important for him, in the sense that Trump had him on the ropes, and a bad finish could have been a near-knockout blow. Last night’s tally will buoy the Senator's campaign, increase his donations, and give him a club to beat Trump over the head with at the next GOP debate. But it’s simply not the overwhelming triumph that so many are making it out to be.
+
+For starters, we must remember that support is not tallied in the form of votes, but in delegates. Since 1,237 delegates are needed for the GOP nomination, the difference between the 8 delegates that Cruz claimed and the 7 that Trump took is quite inconsequential. And if we put aside the horse race talk, and the polls, and the predictions, and instead look at the outcome critically, it may be that the most important question is why Cruz didn’t win more handily. After all, he poured massive resources into advertising in the state and into a huge and well-coordinated ground game. This ultimately resulted in a record turnout of 182,000 people on the GOP side. He secured the support of every prominent evangelical in Iowa, and spent hundreds of hours campaigning, with surrogates like his father spending hundreds of hours more. And this in a state that has given its blessing to evangelicals in each of the last two elections. Trump, by contrast, had a fairly limited ground game, is not an evangelical, spent little on advertising, and draws support from voters who are largely political neophytes and may struggle with the caucus process. And yet, Trump barely lost. There is much about Iowa that Cruz simply will not be able to replicate in most other states, and if he can only win by a nose when he has everything else working in his favor, it certainly raises some questions about his long-term viability.
+
+[![Screen Shot 2016-02-02 at 7.13.44 AM](http://jessemackinnon.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-02-at-7.13.44-AM.png)](http://jessemackinnon.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-02-at-7.13.44-AM.png)
+
+As for Trump, for the first time people have actually cast votes for him. And compared to the establishment Republican field, he did fairly well. With his near bottomless supply of funds, expect him to be in it until the end. That being said, his entire narrative was that of, “I’m a winner,” or at the least a competent negotiator. But ultimately, he failed to seal the deal in Iowa, largely because he simply relied on his celebrity, eschewing traditional, locally based voter turnout efforts that have been critical in every election in recent memory. Moving forward, Trump may well consider adopting some of the organizational trappings of a traditional campaign if he wants to stay competitive.
+
+Meanwhile, the most important result of the night may be Senator Marco Rubio’s very strong third-place finish. He outperformed his polling numbers by 5%-8%. And not only did the Florida Senator claim just as many delegates as Trump—and, thus, just one less than Cruz—he also attracted more votes than the other three establishment candidates combined and tripled. There is still time for their supporters to coalesce around him; if they had done so on Monday, he would have finished in first place rather than third. Cruz’s results last night may very well convince the establishment that Rubio needs to become Plan B immediately. With his massive war chest, I don’t think it’s outside the realm of possibility that Jeb Bush may remain in the race to simply suicide himself against Cruz and Trump; he can afford to attack them and alienate their supporters if he doesn’t have a hope of winning the nomination.
+
+[![2016_Republican_National_Convention_Logo](http://jessemackinnon.com/wp-content/uploads/2016/02/2016_Republican_National_Convention_Logo.png)](http://jessemackinnon.com/wp-content/uploads/2016/02/2016_Republican_National_Convention_Logo.png)
+
+The results from Iowa only increase the possibility of a deadlocked Republican convention. What would happen if Trump got 40% of the delegates and Cruz and Rubio each had 30%? Nobody would be willing to run as Trump’s Vice President, while Cruz and Rubio might be willing to make the other one his running mate but would insist on being on top of the ticket.
+
+It wasn't supposed to be like this. The whole 2016 nominating plan was to get a quick nominee so he could start working on defeating Hillary Clinton in April. A brokered convention was definitely not on anyone's agenda, but it is looking like a real possibility now unless Trump self destructs. The RNC itself meets in January in South Carolina and the topic of the convention rules will surely be near the top of the agenda. The convention rules can't be changed until the convention itself. If Trump has, say, 40% of the delegates, he will ask for 40% of the seats on the rules committee.
+
+The rules are very important. For example, in 2012 the rules committee decided that to have a candidate's name be placed before the convention, he had to have a majority in eight states. This rule was blatantly designed to keep Ron Paul from being put on the convention's ballot. Consider this hypothetical scenario. Suppose Donald Trump has 40% of the delegates, Ted Cruz has 35%, Marco Rubio has 20%, and Chris Christie has 5%. Trump and Cruz could get together and get a rule passed saying a candidate needs 30% of all the delegates to be placed on the convention ballot. This would only happen if both Trump and Cruz expected to pick up most of Rubio and Christie's delegates, but it could happen, so control of the rules committee could be crucial.
+
+None of the delegates are bound to a candidate after the first ballot, so if no candidate is elected on the first ballot, all delegates become free agents. The bargaining will become intense. You can imagine this and worse from Delegate Smith: “Senator Rubio, your opponent Senator Cruz has promised money to improve Maple Avenue in my home town of East Cupcake. Would you be willing to improve Maple Avenue and also provide new fire engines to East Cupcake’s fire department?” The delegates are for the most part amateurs—political activists to be sure—but amateurs nevertheless. The establishment will have the advantage here because RNC chairman Reince Priebus understands all the rules and details and will do his utmost to see that a candidate acceptable to the establishment is nominated.
+
+A key factor is that all the caucuses and primaries before March 15 award their delegates proportionally. This means that these delegates will be splintered over multiple candidates. Starting on March 15, when Florida, Ohio, and North Carolina hold their primaries, states can choose for winner-take-all primaries,as Florida and Ohio have done, but by then, much of the damage may have been done. And even with winner-take-all, Trump could win some states, Cruz could win some, and Rubio the remainder. Finally, the big blue states come later in the process. California, Illinois, New York, New Jersey, and Pennsylvania combined send 458 of the 2473 delegates to the convention and those could go to Rubio, who at least makes the effort to appear somewhat moderate.
+
+A situation in which two or three candidates commanded enough delegate support to block their rivals but not enough delegates to claim the nomination for themselves was fairly common in the 19th century and was not unheard of in the first half of the 20th. Occasionally the logjam was resolved by denying all of the frontrunners, and dipping into the second tier of candidates. Warren Harding was nominated in this way in 1920, as was Abraham Lincoln in 1860.
+
+The emergence of the primary system, which took hold in the 1940s and 1950s, has largely forestalled this kind of convention brokering. The last true “surprise” nominee was businessman Wendell Wilkie, tapped by the Republicans to face Franklin D. Roosevelt in 1940. This was an enormous disappointment to the three frontrunners, Senator Arthur Vandenberg, Senator Robert Taft, and attorney Thomas E. Dewey, who had to console themselves that maybe their chance would come one day. It only came for Dewey, who went on to defeat Harry S Truman in 1948. At least, that's what the headlines said.
+
+The possibility that the Republican convention will begin without a candidate has raised all sorts of speculation. And the current whispers, getting louder, suggest that if the GOP turns to a fourth candidate because Marco Rubio, Ted Cruz, and Donald Trump cannot reach an understanding, that candidate might very well be Mitt Romney.
+
+Romney 2016 is still, of course, a very long shot. The odds that the correct circumstances even arise are fairly small and Romney, for his part, claims he's not interested. But in a campaign that seems to adhere to no discernible rules or past precedents, anything is possible. But the fact that some Republicans are longing for Mitt Romney—who, recall, lost by 5 million popular and 126 electoral votes—certainly says something about this year’s field.
