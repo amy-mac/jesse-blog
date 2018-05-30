@@ -3,9 +3,14 @@
 
 @import "minima";
 
+/* Overrides */
+$on-laptop: 1200px !default;
+
 hr {
   margin: 20px 0;
 }
+
+/* End Overrides */
 
 .img--centered {
   text-align: center;

@@ -17,7 +17,7 @@ tags:
 - World War II
 ---
 
-## Today is Purple Heart Day. The best way to honor those who have sacrificed is to ensure that future generations do not have to bear the same horrors.
+<strong>Today is Purple Heart Day. The best way to honor those who have sacrificed is to ensure that future generations do not have to bear the same horrors.</strong>
 
 <img src="/images/2017/normandy-dead-germans.jpeg" alt="">
 
