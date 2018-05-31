@@ -8,7 +8,7 @@ slug: my-favorite-movie-of-the-year
 title: My Favorite Movie of the Year.
 wordpress_id: 515
 categories:
-- Film_and_Media
+- Film and Media
 excerpt_separator: "<!--more-->"
 ---
 

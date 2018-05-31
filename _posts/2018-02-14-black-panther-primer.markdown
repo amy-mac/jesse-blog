@@ -8,7 +8,7 @@ slug: black-panther-primer
 title: A Black Panther Primer
 wordpress_id: 596
 categories:
-- Film_and_Media
+- Film and Media
 tags:
 - Black Panther
 - Comics

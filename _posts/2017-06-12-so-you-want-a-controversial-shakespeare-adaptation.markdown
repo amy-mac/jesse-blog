@@ -8,7 +8,7 @@ slug: so-you-want-a-controversial-shakespeare-adaptation
 title: So You Want a Controversial Shakespeare Adaptation?
 wordpress_id: 497
 categories:
-- Film_and_Media
+- Film and Media
 tags:
 - Donald Trump
 - Julius Caesar

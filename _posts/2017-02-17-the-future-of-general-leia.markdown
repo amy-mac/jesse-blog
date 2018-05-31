@@ -8,7 +8,7 @@ slug: the-future-of-general-leia
 title: The Future of General Leia.
 wordpress_id: 536
 categories:
-- Film_and_Media
+- Film and Media
 tags:
 - Carrie Fisher
 - General Leia

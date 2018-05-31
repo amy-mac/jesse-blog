@@ -8,7 +8,7 @@ slug: charlottesville-dunkirk
 title: Charlottesville, Dunkirk, and "The Good War"
 wordpress_id: 554
 categories:
-- Film_and_Media
+- Film and Media
 - History
 - Politics
 tags:

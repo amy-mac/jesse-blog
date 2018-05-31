@@ -8,7 +8,7 @@ slug: comic-books
 title: Comic Books, and How We Remember.
 wordpress_id: 488
 categories:
-- Film_and_Media
+- Film and Media
 tags:
 - Comics
 - Jack Kirby

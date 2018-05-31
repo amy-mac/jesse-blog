@@ -18,9 +18,9 @@ layout: default
         • <span rel="tag">
         {% for category in page.categories %}
           {% unless category == page.categories.last %}
-            {{ category }},
+            <a href="{{ site.url }}/categories/{{ category | url_encode }}/index.html">{{ category }}</a>,
           {% else %}
-            {{category}}
+            <a href="{{ site.url }}/categories/{{ category | url_encode }}/index.html">{{ category }}</a>
           {% endunless %}
         {% endfor %}
       </span>

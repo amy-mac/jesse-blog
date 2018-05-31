@@ -8,7 +8,7 @@ slug: the-alternate-history-we-need
 title: The Alternate History We Need.
 wordpress_id: 483
 categories:
-- Film_and_Media
+- Film and Media
 tags:
 - Afrofuturism
 - Confederacy

@@ -23,6 +23,11 @@ show_excerpts: true
 paginate: 12
 permalink: /:year/:month/:title/
 
+header_pages:
+  - about.md
+
+category_path: "categories"
+
 twitter_username: jessethemac
 
 disqus:
@@ -34,6 +39,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-category-pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
