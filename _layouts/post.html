@@ -33,6 +33,12 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
+    {% if page.tags %}
+      <p class="post-meta" rel="tag"><strong>Tags:</strong>
+        {{ page.tags | array_to_sentence_string }}
+      </p>
+    {% endif %}
+
     {%- include share-bar.html -%}
   </div>
 
