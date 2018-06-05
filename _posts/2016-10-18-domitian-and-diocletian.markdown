@@ -14,6 +14,7 @@ tags:
 ---
 
 There's something that's been perplexing me, namely the different reactions to the policies of Domitian and Diocletian.
+<img src="/images/2016/Domitian-1024x568.jpg" alt="">
 
 Before I start, let me go on a long rant about why everything you know about the ancient world is wrong.
 

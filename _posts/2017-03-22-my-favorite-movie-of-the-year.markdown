@@ -9,7 +9,7 @@ title: My Favorite Movie of the Year.
 wordpress_id: 515
 categories:
 - Film and Media
-excerpt_separator: "<!--more-->"
+excerpt_separator: <!--more-->
 ---
 
 <!--more-->

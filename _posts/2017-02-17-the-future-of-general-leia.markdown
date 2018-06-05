@@ -19,6 +19,8 @@ Unpopular opinion of the night:
 
 In Episode IX, they should recast Leia.
 
+<img src="/images/2017/general-leia.png" alt="">
+
 Apparently her role increases in importance in each installment. It would take a significant rewrite that would profoundly alter the trajectory of the Sequel Trilogy to remove her from the final installment.
 
 Doing some kind of CGI workaround to kill her off would be more disrespectful to the performance she completed in The Last Jedi. It would alter the trajectory of the character in a way that her performance couldn't anticipate.

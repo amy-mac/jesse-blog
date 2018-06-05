@@ -13,10 +13,12 @@ categories:
 tags:
 - immigration
 - Scotland
+excerpt_separator: <!--more-->
 ---
+<img src="/images/2017/castle-maol.jpg" alt="">
 
 I just poured myself a glass of Drambuie. On the rocks. It's a Scottish liqueur that was actually concocted by MacKinnons. Let me tell you about how this drink came to be and how this particular MacKinnon wound up here drinking it.
-
+<!--more-->
 In Britain there were a series of wars for the crown which details I won't bore you with. But they end at the Battle of Culloden, when Prince Charles Edward Stuart listened to his fucking Irish advisor instead of his Scottish one and lost big time. Bonnie Prince Charlie was on the run, and he wound up holed up with his allies on the Isle of Skye... the ancestral homeland of the MacKinnons.
 
 Why were we MacKinnons his allies? Because we were Catholics in an increasingly Presbyterian country on an island politically dominated by Anglicans. Stuart would never have been a good King, but I understand why they made the decision.

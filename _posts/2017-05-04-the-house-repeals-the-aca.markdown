@@ -14,10 +14,13 @@ tags:
 - Donald Trump
 - Health Care
 - Paul Ryan
+excerpt_separator: <!--more-->
 ---
 
-Today was bad. The House passed a bill that, simply put, is taking health care from poor people and converting it into a big tax break for rich people.
+<img src="/images/2017/trump-ryan.jpg" alt="">
 
+Today was bad. The House passed a bill that, simply put, is taking health care from poor people and converting it into a big tax break for rich people.
+<!--more-->
 We still have some steps to go, however. We need to make it seem not as though the GOP has gained momentum, but instead through their monstrous bill stuck their face into a propeller like the big bald Nazi in Raiders of the Lost Ark.
 
 If you can right now, the PAC Swing Left is totally legit, and has raised $400,000 thus far... today. If you can hold off on buying some overpriced coffee this week, this seems to be the place to donate to send that message.

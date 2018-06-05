@@ -11,10 +11,12 @@ categories:
 - Politics
 tags:
 - Justice
+excerpt_separator: <!--more-->
 ---
+<img src="/images/2017/scales.jpg" alt="">
 
 I think we're far enough away from any big legal drama playing out in the news that I can go into this subject. I kind of have a feeling it's going to be an issue again pretty soon, so let's clear something up:
-
+<!--more-->
 When someone "takes the 5th," they're invoking their constitutional right to not answer questions that might incriminate them. The problem is, most people not familiar with the law will say something like, "they took the 5th, they must have done something that they need to hide!"
 
 Well, here's why utilizing that right should not be taken as a sign of guilt. Say I leave a bar at 12:30 one night. I walk to my car and leave, and no one sees me go. At 12:33, someone staggers into the bar saying, "someone just stabbed me outside, and I didn't get a good look at him." There are no witnesses.

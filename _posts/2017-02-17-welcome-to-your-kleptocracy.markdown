@@ -63,3 +63,5 @@ So what does Trump want now? To get even more rich. I mean, here is a guy who cr
 The Republicans know they're in a Party civil war. They're not aggressively acting against the President and his flagrant wrongdoings because they are afraid that the Trumpists might leave the GOP if they do.
 
 Welcome to your Kleptocracy.
+
+<img src="/images/2017/trump-golf.jpg" alt="">

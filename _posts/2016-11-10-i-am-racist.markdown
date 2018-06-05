@@ -21,7 +21,7 @@ In this campaign, the Republican nominee built his campaign on exclusion, whethe
 
 Of course, this shouldn’t come as a surprise. I’ve had to defend the Black Lives Matter movement to a bewildering array of fellow white people, most of whom are self-described Liberals. And it’s to those people that I’d most like to speak. First, let’s define Racism, from a smarter man than I:
 
-"Racism is not merely a simplistic hatred. It is, more often, broad sympathy toward some and broader skepticism toward others..." -Ta-Nehisi Coates
+<blockquote>"Racism is not merely a simplistic hatred. It is, more often, broad sympathy toward some and broader skepticism toward others..." <cite>-Ta-Nehisi Coates</cite></blockquote>
 
 One of the significant problems that I have in talking to fellow white people about racism is how they often think that racism necessarily denote concrete actions or conscious ideologies. This blog post is directed largely at them. They think to say that you’re a racist is to be a jerk to your black co-worker, or to make horrible jokes about Latinos, or to deface a Mosque.
 
@@ -122,7 +122,6 @@ Will Paul Ryan and the “libertarian” wing of the Republican Party fight poli
 The Civil War is still being fought today. The Civil RIghts era of the 1950s and 1960s merely transitioned it from Jim Crow to Mass Incarceration. It’s battlefields are our classrooms and our workplaces. It has been happening our entire lives. This is your wake up call. We’re entering a new phase of the battle.
 
 Do you sincerely want to combat racism? The first step is acknowledging it in yourself, then taking your knowledge and spreading it the best you can. But keep in mind this is just a first step. The coming days are going to ask much more difficult things from us.
-
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">No BS, I wish every white person on Twitter could see this. Maybe it&#39;ll help <a href="https://t.co/vae574ysG0">pic.twitter.com/vae574ysG0</a></p>&mdash; Billiam⚜️ (@carltonspeight) <a href="https://twitter.com/carltonspeight/status/750758194851540992?ref_src=twsrc%5Etfw">July 6, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
