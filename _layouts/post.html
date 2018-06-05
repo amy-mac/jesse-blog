@@ -14,7 +14,7 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
 
-      {% if page.categories != 0 %}
+      {% if page.categories.size != 0 %}
         • <span rel="tag">
         {% for category in page.categories %}
           {% unless category == page.categories.last %}
@@ -33,7 +33,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    {% if page.tags %}
+    {% if page.tags.size != 0 %}
       <p class="post-meta" rel="tag"><strong>Tags:</strong>
         {{ page.tags | array_to_sentence_string }}
       </p>

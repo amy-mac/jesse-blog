@@ -1,5 +1,7 @@
 desc "Commit _site/"
 task :commit do
+  puts "\n## Rebasing with remote"
+  status = system("git pull --rebase")
   puts "\n## Staging modified files"
   status = system("git add -A")
   puts status ? "Success" : "Failed"
@@ -23,11 +25,8 @@ task :deploy do
   puts "\n## Forcing the _site subdirectory to be project root"
   status = system("git filter-branch --subdirectory-filter _site/ -f")
   puts status ? "Success" : "Failed"
-  puts "\n## Switching back to source branch"
-  status = system("git checkout source")
-  puts status ? "Success" : "Failed"
-  puts "\n## Pushing all branches to origin"
-  status = system("git push --all origin")
+  puts "\n## Pushing master branch to origin"
+  status = system("git push -f origin master")
   puts status ? "Success" : "Failed"
 end
 
