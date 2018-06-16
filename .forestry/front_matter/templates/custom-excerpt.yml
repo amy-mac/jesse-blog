@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: excerpt_separator
+  label: Excerpt Separator
+  description: What determines where the excerpt ends
+  default: "<!--more-->"
