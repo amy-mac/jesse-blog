@@ -10,7 +10,7 @@ collections:
     output: true
 email: mackinnon.jesse@gmail.com
 description: Random writings from a film and history nerd.
-baseurl: ''
+baseurl: 
 url: http://jessemackinnon.com
 show_excerpts: true
 paginate: 12
