@@ -1,6 +1,0 @@
----
-title: Test
-date: 2018-06-16 05:04:00 Z
----
-
-Hello world.
