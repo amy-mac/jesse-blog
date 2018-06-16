@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-13 06:01:52 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/groping/
-slug: groping
 title: Groping.
-wordpress_id: 451
+date: 2016-10-13 06:01:52 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - Sexual Assault
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/groping/
+wordpress_id: 451
 ---
 
 You know honestly here's an unusual story that's swelling back.

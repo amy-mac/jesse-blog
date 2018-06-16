@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2014-09-03 18:00:33 +0000
-layout: post
-link: http://jessemackinnon.com/2014/09/feminist-frequency/
-slug: feminist-frequency
 title: Feminist Frequency.
-wordpress_id: 83
+date: 2014-09-03 18:00:33 Z
 categories:
 - Politics
 tags:
 - Feminism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/09/feminist-frequency/
+wordpress_id: 83
 ---
 
 With all the vitriol surrounding Feminist Frequency, there are two straw men in particular that I've noticed repeated ad nauseum.

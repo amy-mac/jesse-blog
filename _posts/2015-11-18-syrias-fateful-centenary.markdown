@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-18 19:15:07 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/syrias-fateful-centenary/
-slug: syrias-fateful-centenary
 title: Syria's fateful centenary.
-wordpress_id: 244
+date: 2015-11-18 19:15:07 Z
 categories:
 - History
 - Politics
@@ -14,6 +8,11 @@ tags:
 - Imperialism
 - ISIS
 - Syria
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/syrias-fateful-centenary/
+wordpress_id: 244
 ---
 
 While the sun shone through the clouds of London, it remained bitterly cold, though unseasonably dry. It was November 23, 1915. Into the Foreign Office strode François Georges-Picot, a seasoned twenty-year diplomat, and fresh off of his assignment as Consul-General in Beirut. He was the scion of a colonialist family, and an outspoken proponent of France’s mission historique in the Levant. He envisioned a French-dominated Syrie intégrale that embraced Damascus, Aleppo, and Beirut, along with Palestine’s Holy Places—a prospect viewed with utter horror by the British planners in Cairo.

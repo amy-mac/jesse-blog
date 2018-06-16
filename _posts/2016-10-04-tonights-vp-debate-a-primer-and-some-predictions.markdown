@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-04 21:09:01 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/tonights-vp-debate-a-primer-and-some-predictions/
-slug: tonights-vp-debate-a-primer-and-some-predictions
 title: 'Tonight''s VP Debate: A Primer and Some Predictions'
-wordpress_id: 433
+date: 2016-10-04 21:09:01 Z
 categories:
 - Politics
 tags:
 - Mike Pence
 - Tim Kaine
 - Vice Presidency
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/tonights-vp-debate-a-primer-and-some-predictions/
+wordpress_id: 433
 ---
 
 <blockquote>Today's Vice Presidential Debate:  

@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-09-01 06:03:24 +0000
-layout: post
-link: http://jessemackinnon.com/2016/08/racism-and-republicans/
-slug: racism-and-republicans
 title: Racism and Republicans.
-wordpress_id: 394
+date: 2016-09-01 06:03:24 Z
 categories:
 - History
 - Politics
@@ -16,6 +10,11 @@ tags:
 - Racism
 - Republicans
 - White Supremacy
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/08/racism-and-republicans/
+wordpress_id: 394
 ---
 
 This week Hillary Clinton and Donald Trump are trading barbs over accusations of racism. And all over the Internet, historical revisionists are out in force, claiming the the Democratic and Republican Parties have maintained consistent ideologies for the entirety of American History. While this is of course silly on the face of it, Conservative Revisionism has remained a significant trend in the last several decades.

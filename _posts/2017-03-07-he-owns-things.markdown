@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-03-07 17:05:53 +0000
-layout: post
-link: http://jessemackinnon.com/2017/03/he-owns-things/
-slug: he-owns-things
 title: He Owns Things.
-wordpress_id: 519
+date: 2017-03-07 17:05:53 Z
 categories:
 - Politics
 tags:
 - Socialism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/03/he-owns-things/
+wordpress_id: 519
 ---
 
 For a people that claim to value a strong work ethic, Americans tend to really value the notion that you get to live a life of luxury while performing no labor if you have just the right pieces of paper in your desk drawer.

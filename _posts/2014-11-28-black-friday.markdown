@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2014-11-28 19:00:29 +0000
-layout: post
-link: http://jessemackinnon.com/2014/11/black-friday/
-slug: black-friday
 title: Black Friday.
-wordpress_id: 72
+date: 2014-11-28 19:00:29 Z
 categories:
 - Politics
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/11/black-friday/
+wordpress_id: 72
 ---
 
 Today is a yearly occasion that can be fairly polarizing. Some people will go out and join in the frenzy, while people like me will stay at home, waiting for it to be over. So instead of posting some snarky picture, i’ll explain why this day troubles me.

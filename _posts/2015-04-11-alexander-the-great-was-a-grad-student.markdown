@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2015-04-11 18:00:10 +0000
-layout: post
-link: http://jessemackinnon.com/2015/04/alexander-the-great-was-a-grad-student/
-slug: alexander-the-great-was-a-grad-student
 title: Alexander the Great was a Grad Student?
-wordpress_id: 48
+date: 2015-04-11 18:00:10 Z
 categories:
 - History
 tags:
 - Alexander the Great
 - Aristotle
 - Graduate School
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/04/alexander-the-great-was-a-grad-student/
+wordpress_id: 48
 ---
 
 Alexander the Great received from Aristotle not only his lessons on Morals and Politics, but also his more abstract theories which Greek Philosophers reserved for direct communication to the initiated, and did not allow common people to become acquainted with. Now, when Alexander was in Asia, and heard Aristotle had published some of those treatises, he wrote to him the following letter:

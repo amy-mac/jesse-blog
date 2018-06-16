@@ -1,22 +1,18 @@
 ---
-author: jesse
-comments: true
-date: 2016-06-17 05:08:51 +0000
-layout: post
-link: http://jessemackinnon.com/2016/06/starcraft-ii-im-finally-finished/
-slug: starcraft-ii-im-finally-finished
 title: 'StarCraft II: I''m finally finished.'
-wordpress_id: 334
+date: 2016-06-17 05:08:51 Z
 categories:
 - Film and Media
 tags:
 - Blizzard
 - Real Time Strategy
 - Starcraft
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/06/starcraft-ii-im-finally-finished/
+wordpress_id: 334
 ---
-
-
-
 
 Okay. So today I'm almost done playing Starcraft II: Legacy of the Void. It's been about a year since it was released and I started playing it.
 

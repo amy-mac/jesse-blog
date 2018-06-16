@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-11 03:12:45 +0000
-layout: post
-link: http://jessemackinnon.com/2017/02/immigration/
-slug: immigration
 title: Immigration.
-wordpress_id: 462
+date: 2017-02-11 03:12:45 Z
 categories:
 - Politics
 tags:
 - immigration
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/02/immigration/
+wordpress_id: 462
 ---
 
 Let's start with some common ground. Very few people are currently satisfied with the immigration system as it currently stands in the United States.

@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-06-23 21:19:01 +0000
-layout: post
-link: http://jessemackinnon.com/2017/06/stress-writing-on-health-care/
-slug: stress-writing-on-health-care
 title: Stress Writing on Health Care.
-wordpress_id: 491
+date: 2017-06-23 21:19:01 Z
 categories:
 - Politics
 tags:
 - Health Care
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/06/stress-writing-on-health-care/
+wordpress_id: 491
 ---
 
 What's the purpose of civil society and civilization, of government and politics? It ought not to just be to protect the powerful. In the last several hundred years in the West has come the notion that it's to provide enough for everyone. We produce enough water for everyone to drink and food for everyone to eat and have seconds. We have more empty housing than homeless.

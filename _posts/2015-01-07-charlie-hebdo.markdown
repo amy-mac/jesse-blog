@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2015-01-07 19:00:35 +0000
-layout: post
-link: http://jessemackinnon.com/2015/01/charlie-hebdo/
-slug: charlie-hebdo
 title: Charlie Hebdo.
-wordpress_id: 57
+date: 2015-01-07 19:00:35 Z
 categories:
 - Politics
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/01/charlie-hebdo/
+wordpress_id: 57
 ---
 
 I’d like to tell you about a society. This society, after having produced a great deal of material wealth by exploiting its own natural resources, still faced a profoundly unequal society, filled with a tiny ruling monarchy and elite ruling vast numbers of poor, uneducated people. That underclass left when they could, spreading out and forming a vast diaspora. Many times, this diaspora met local traditions, political institutions and customs with bloodthirsty savagery, unmitigated violence the likes of which the world has scarcely seen since.

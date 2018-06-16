@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-08-21 05:33:00 +0000
-layout: post
-link: http://jessemackinnon.com/2016/08/star-trek-16-the-dream-ticket/
-slug: star-trek-16-the-dream-ticket
 title: 'Star Trek ''16: The Dream Ticket'
-wordpress_id: 389
+date: 2016-08-21 05:33:00 Z
 categories:
 - Politics
 - Star Trek
@@ -17,6 +11,11 @@ tags:
 - Riker
 - Sisko
 - Spock
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/08/star-trek-16-the-dream-ticket/
+wordpress_id: 389
 ---
 
 As is usual every election season, the jokes about what Starship Captains and their First Officers would make good Presidents and Vice Presidents. Now frankly, none of these have sat entirely right with me. So here’s what I’m going to do: I’m going to vet each Captain for the position of President, and each First Officer for the position of Vice President.

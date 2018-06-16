@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-12-19 06:25:04 +0000
-layout: post
-link: http://jessemackinnon.com/2015/12/more-star-wars/
-slug: more-star-wars
 title: Hungry for more Star Wars after The Force Awakens? Here’s what you can do.
-wordpress_id: 279
+date: 2015-12-19 06:25:04 Z
 categories:
 - Film and Media
 tags:
 - Expanded Universe
 - Star Wars
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/12/more-star-wars/
+wordpress_id: 279
 ---
 
 While the Expanded Universe of Star Wars has been wiped out of existence, there remains certain legacy items that have aged remarkably well. In addition to being terrific storytelling, the take place millennia before the films. Therefore, the events of The Force Awakens have not necessarily contradicted the events therein.

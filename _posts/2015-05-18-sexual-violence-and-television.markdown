@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2015-05-18 18:00:16 +0000
-layout: post
-link: http://jessemackinnon.com/2015/05/sexual-violence-and-television/
-slug: sexual-violence-and-television
 title: Sexual Violence and Television.
-wordpress_id: 40
+date: 2015-05-18 18:00:16 Z
 categories:
 - Film and Media
 tags:
@@ -14,6 +8,11 @@ tags:
 - Game of Thrones
 - House of Cards
 - The Sopranos
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/05/sexual-violence-and-television/
+wordpress_id: 40
 ---
 
 I've gotten to the point where I basically check out of any show that uses sexual violence as a plot device. Don't get me wrong, it's a serious topic that needs to be addressed in our art and in our culture. But far too often, it's used to cheaply give gritty backstory to a female character, or worse, provide dramatic motivation to male characters.

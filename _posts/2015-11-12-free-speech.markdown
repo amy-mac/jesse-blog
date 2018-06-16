@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-12 18:00:35 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/free-speech/
-slug: free-speech
 title: Free Speech.
-wordpress_id: 209
+date: 2015-11-12 18:00:35 Z
 categories:
 - Politics
 tags:
 - Free Speech
 - Political Correctness
 - Trigger Warnings
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/free-speech/
+wordpress_id: 209
 ---
 
 When I was a teenager, one of the political issues that most occupied my heart and mind was that of Free Speech. When I pored over my History textbooks, I read over every governmental intrusion into free and open discourse with rapturous attention. I pilloried John Adams for the Alien and Sedition acts before I ever learned the nuances of his Presidency, and I looked on Lincoln with a new skepticism when I learned of his suspension of the writ of habeas corpus. Both the Red Scares of the 20s and 50s outraged me, and I appreciated with newfound ardor on local history, seeing the Free Speech battles of the 60s and 70s.

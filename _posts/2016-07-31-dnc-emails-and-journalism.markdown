@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-07-31 16:12:47 +0000
-layout: post
-link: http://jessemackinnon.com/2016/07/dnc-emails-and-journalism/
-slug: dnc-emails-and-journalism
 title: DNC Emails and Journalism.
-wordpress_id: 372
+date: 2016-07-31 16:12:47 Z
 categories:
 - Politics
 tags:
@@ -15,6 +9,11 @@ tags:
 - Democratic Primary
 - Hillary Clinton
 - Journalism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/07/dnc-emails-and-journalism/
+wordpress_id: 372
 ---
 
 At this point [my article on Hillary Clinton](http://jessemackinnon.com/2016/07/belief-hatred-and-the-democratic-primary/) has been read four times as much as every other item on my blog combined. Which is baffling to me, because you’re saying the the original Star Trek series can’t drive as much traffic as a polemic on a controversial public figure??

@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-07-27 19:26:17 +0000
-layout: post
-link: http://jessemackinnon.com/2017/07/gender-roles-and-historical-memory/
-slug: gender-roles-and-historical-memory
 title: Gender Roles and Historical Memory.
-wordpress_id: 480
+date: 2017-07-27 19:26:17 Z
 categories:
 - History
 - Politics
@@ -14,6 +8,11 @@ tags:
 - Gender
 - Imperialism
 - Transgender
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/07/gender-roles-and-historical-memory/
+wordpress_id: 480
 ---
 
 <img src="/images/2017/William_Etty_-_Jeanne_dArc.jpg" alt="">

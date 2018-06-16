@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-09-04 19:46:55 +0000
-layout: post
-link: http://jessemackinnon.com/2015/09/fence_elephant_hairpiece/
-slug: fence_elephant_hairpiece
 title: A Fence, an Elephant, and a Hairpiece.
-wordpress_id: 103
+date: 2015-09-04 19:46:55 Z
 categories:
 - Politics
 tags:
 - immigration
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/09/fence_elephant_hairpiece/
+wordpress_id: 103
 ---
 
 Let me start by simply stating the obvious: Republicans, for decades now, have integrated the mantra of "small government" into almost every aspect of their marketing. From the [2012 Republican Party Platform](https://cdn.gop.com/docs/2012GOPPlatform.pdf):

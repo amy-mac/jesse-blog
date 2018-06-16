@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-01-01 19:00:11 +0000
-layout: post
-link: http://jessemackinnon.com/2015/01/the-scots-are-not-native-to-scotland/
-slug: the-scots-are-not-native-to-scotland
 title: The Scots are not native to Scotland.
-wordpress_id: 60
+date: 2015-01-01 19:00:11 Z
 categories:
 - Politics
 tags:
 - Multiculturalism
 - Scotland
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/01/the-scots-are-not-native-to-scotland/
+wordpress_id: 60
 ---
 
 The Scots are not native to Scotland.

@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-05-11 14:40:18 +0000
-layout: post
-link: http://jessemackinnon.com/2017/05/rigged-systems-and-voter-suppression/
-slug: rigged-systems-and-voter-suppression
 title: Rigged Systems and Voter Suppression.
-wordpress_id: 503
+date: 2017-05-11 14:40:18 Z
 categories:
 - Politics
 tags:
 - Voter Suppression
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/05/rigged-systems-and-voter-suppression/
+wordpress_id: 503
 ---
 
 Hey everyone: life is about to hand you a rare gift today. Pay attention.

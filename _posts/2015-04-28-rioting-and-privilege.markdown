@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2015-04-28 05:00:30 +0000
-layout: post
-link: http://jessemackinnon.com/2015/04/rioting-and-privilege/
-slug: rioting-and-privilege
 title: Rioting and Privilege.
-wordpress_id: 45
+date: 2015-04-28 05:00:30 Z
 categories:
 - Politics
 tags:
 - Black Lives Matter
 - Privilege
 - Race
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/04/rioting-and-privilege/
+wordpress_id: 45
 ---
 
 Tonight I want to offer a prayer: God grant me the serenity to accept the things I cannot change; courage to change the things I can; and wisdom to know the difference.

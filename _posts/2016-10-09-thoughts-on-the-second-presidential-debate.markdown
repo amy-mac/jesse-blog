@@ -1,26 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-09 19:19:06 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/thoughts-on-the-second-presidential-debate/
-slug: thoughts-on-the-second-presidential-debate
 title: Thoughts on the Second Presidential Debate.
-wordpress_id: 437
+date: 2016-10-09 19:19:06 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - Hillary Clinton
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/thoughts-on-the-second-presidential-debate/
+wordpress_id: 437
 ---
-
-
-
-
-
-
-
-
 
 The Town Hall Debate is supposed to be the format where the candidate shows off how they visibly connect with voters, and address their concerns. The elder Bush basically lost the '92 election when he was caught checking his watch during a question about the national debt.
 

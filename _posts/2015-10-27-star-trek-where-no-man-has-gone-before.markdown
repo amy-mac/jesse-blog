@@ -1,13 +1,7 @@
 ---
-author: jesse
-comments: true
-date: 2015-10-27 23:30:36 +0000
-layout: post
-link: http://jessemackinnon.com/2015/10/star-trek-where-no-man-has-gone-before/
-slug: star-trek-where-no-man-has-gone-before
 title: 'Star Trek: Where No Man Has Gone Before, or, What You Really Need to Sell
   a Series is a Torn Shirt.'
-wordpress_id: 166
+date: 2015-10-27 23:30:36 Z
 categories:
 - Star Trek
 tags:
@@ -16,6 +10,11 @@ tags:
 - Kirk
 - Spock
 - William Shatner
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/10/star-trek-where-no-man-has-gone-before/
+wordpress_id: 166
 ---
 
 ### Of course Gary Mitchell is flipping through pages so rapidly. They only gave him the same five to read!

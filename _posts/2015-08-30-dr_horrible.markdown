@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2015-08-30 19:53:51 +0000
-layout: post
-link: http://jessemackinnon.com/2015/08/dr_horrible/
-slug: dr_horrible
 title: Dr. Horrible Really was the Bad Guy.
-wordpress_id: 100
+date: 2015-08-30 19:53:51 Z
 categories:
 - Film and Media
 tags:
@@ -14,6 +8,11 @@ tags:
 - Feminism
 - Joss Whedon
 - Toxic Masculinity
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/08/dr_horrible/
+wordpress_id: 100
 ---
 
 Last Thursday I showed my class Dr. Horrible’s Sing-Along Blog. We’ve reached a point where it is truly part of the superhero geek subculture. In my four years of teaching, only a scant three students have ever seen it before. I stick to it, because it serves as an excellent teaching tool to get students to look for elements of Realist, and Formalist film styles.

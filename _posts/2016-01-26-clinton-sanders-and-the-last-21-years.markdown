@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-01-26 19:37:56 +0000
-layout: post
-link: http://jessemackinnon.com/2016/01/clinton-sanders-and-the-last-21-years/
-slug: clinton-sanders-and-the-last-21-years
 title: Clinton, Sanders, and the last 21 years.
-wordpress_id: 290
+date: 2016-01-26 19:37:56 Z
 categories:
 - Politics
 tags:
@@ -15,6 +9,11 @@ tags:
 - Democratic Primary
 - Hillary Clinton
 - Newt Gingrich
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/01/clinton-sanders-and-the-last-21-years/
+wordpress_id: 290
 ---
 
 I’ve seen a lot of people posting recently about whether they’re voting for Clinton or Sanders. This post isn’t meant to convince anyone, but simply to give my two cents.

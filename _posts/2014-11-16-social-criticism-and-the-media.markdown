@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2014-11-16 19:00:42 +0000
-layout: post
-link: http://jessemackinnon.com/2014/11/social-criticism-and-the-media/
-slug: social-criticism-and-the-media
 title: Social Criticism and the Media.
-wordpress_id: 81
+date: 2014-11-16 19:00:42 Z
 categories:
 - Film and Media
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/11/social-criticism-and-the-media/
+wordpress_id: 81
 ---
 
 I think being interested in media is a bit like being a car enthusiast. People like me are quite content to just let their cars take them places, and can appreciate how they look on the outside. But a decent chunk of people want to do more than that: they want to pop that hood and see how the engine works. Maybe they want to participate with the process more, and might fiddle with the engine. And the people who REALLY get into it might proffer suggestions of how to get it to run better, or look nicer.

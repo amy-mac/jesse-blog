@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-07-07 15:12:17 +0000
-layout: post
-link: http://jessemackinnon.com/2016/07/alton-sterling-philando-castile-and-overhauling-our-criminal-justice-system/
-slug: alton-sterling-philando-castile-and-overhauling-our-criminal-justice-system
 title: Alton Sterling, Philando Castile, and Overhauling Our Criminal Justice System.
-wordpress_id: 348
+date: 2016-07-07 15:12:17 Z
 categories:
 - Politics
 tags:
 - Black Lives Matter
 - Criminal Justice Reform
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/07/alton-sterling-philando-castile-and-overhauling-our-criminal-justice-system/
+wordpress_id: 348
 ---
 
 When reading of the deaths of Alton Sterling and Philando Castile, amid the sadness and rage, I had a moment of feeling grateful that we have tools like cell phone cameras and the Internet so that such atrocities don't remain hidden.

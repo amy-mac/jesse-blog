@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-06-25 18:05:16 +0000
-layout: post
-link: http://jessemackinnon.com/2017/06/pride-and-identity-2/
-slug: pride-and-identity-2
 title: Pride and Identity.
-wordpress_id: 468
+date: 2017-06-25 18:05:16 Z
 categories:
 - Politics
 tags:
@@ -14,6 +8,11 @@ tags:
 - LGBTQ
 - Pride
 - Social Justice
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/06/pride-and-identity-2/
+wordpress_id: 468
 ---
 
 Pride is always important. What it represents is important. And this year, in 2017, when LGBTQ rights are being rolled back, and what are sneeringly dismissed as “identity politics” are being questioned, it’s worth briefly examining some of the major events in the history of the LGBTQ Rights movement.

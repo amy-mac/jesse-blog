@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-26 00:59:37 +0000
-layout: post
-link: http://jessemackinnon.com/2017/02/ideological-diversification/
-slug: ideological-diversification
 title: Ideological Diversification.
-wordpress_id: 523
+date: 2017-02-26 00:59:37 Z
 categories:
 - Politics
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/02/ideological-diversification/
+wordpress_id: 523
 ---
 
 I've completed my transition from Reddit to Twitter as my primary news aggregator. (Reddit's altered algorithm and infiltration by white supremacists spurred this decision.) In the aftermath of the 2016 election, I sought to expand my "bubble," and diversify the people I was following.

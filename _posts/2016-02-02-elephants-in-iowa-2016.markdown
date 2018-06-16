@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-02-02 15:56:36 +0000
-layout: post
-link: http://jessemackinnon.com/2016/02/elephants-in-iowa-2016/
-slug: elephants-in-iowa-2016
 title: Elephants in Iowa, 2016.
-wordpress_id: 293
+date: 2016-02-02 15:56:36 Z
 categories:
 - Politics
 tags:
@@ -16,6 +10,11 @@ tags:
 - Marco Rubio
 - Republicans
 - Ted Cruz
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/02/elephants-in-iowa-2016/
+wordpress_id: 293
 ---
 
 ## Why the Republican Party is headed towards a brokered convention.

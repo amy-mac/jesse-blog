@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-05-04 23:24:58 +0000
-layout: post
-link: http://jessemackinnon.com/2017/05/the-house-repeals-the-aca/
-slug: the-house-repeals-the-aca
 title: The House Repeals the ACA.
-wordpress_id: 505
+date: 2017-05-04 23:24:58 Z
 categories:
 - Politics
 tags:
@@ -14,7 +8,12 @@ tags:
 - Donald Trump
 - Health Care
 - Paul Ryan
-excerpt_separator: <!--more-->
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/05/the-house-repeals-the-aca/
+wordpress_id: 505
+excerpt_separator: "<!--more-->"
 ---
 
 <img src="/images/2017/trump-ryan.jpg" alt="">

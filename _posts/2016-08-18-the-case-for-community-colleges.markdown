@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-08-18 18:26:24 +0000
-layout: post
-link: http://jessemackinnon.com/2016/08/the-case-for-community-colleges/
-slug: the-case-for-community-colleges
 title: The Case for Community Colleges.
-wordpress_id: 384
+date: 2016-08-18 18:26:24 Z
 categories:
 - Politics
 tags:
@@ -15,6 +9,11 @@ tags:
 - Community College
 - Education
 - Racism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/08/the-case-for-community-colleges/
+wordpress_id: 384
 ---
 
 In her article [The Community College/‘Real College’ Divide](http://parenting.blogs.nytimes.com/2015/02/11/the-community-collegereal-college-divide/), Kristin O'Keefe relates,

@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-09-21 00:12:43 +0000
-layout: post
-link: http://jessemackinnon.com/2017/09/the-cage-revisited/
-slug: the-cage-revisited
 title: The Cage Revisited
-wordpress_id: 567
+date: 2017-09-21 00:12:43 Z
 categories:
 - Star Trek
 tags:
@@ -14,8 +8,14 @@ tags:
 - Pike
 - Spock
 - The Cage
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/09/the-cage-revisited/
+wordpress_id: 567
 excerpt_separator: "<!--more-->"
 ---
+
 <img src="/images/2017/the-cage.jpg">
 
 When I was a kid, the original Star Trek series was the only on television at 1:30am Sunday mornings. As a fan of The Next Generation and the movies, I was intensely curious, but opportunities for viewing were limited. However, the local Blockbuster had a copy of The Cage, Gene Roddenberry's original, unaired pilot episode. As a result, I've probably seen that more than any other episode of the original.

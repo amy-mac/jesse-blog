@@ -1,13 +1,7 @@
 ---
-author: jesse
-comments: true
-date: 2015-12-09 21:36:12 +0000
-layout: post
-link: http://jessemackinnon.com/2015/12/the-corbomite-maneuver/
-slug: the-corbomite-maneuver
 title: The Corbomite Maneuver, or, the structuring theme that holds the franchise
   together.
-wordpress_id: 264
+date: 2015-12-09 21:36:12 Z
 categories:
 - Star Trek
 tags:
@@ -15,6 +9,11 @@ tags:
 - Kirk
 - Poker
 - Spock
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/12/the-corbomite-maneuver/
+wordpress_id: 264
 ---
 
 ### Kirk has a dietary card and is angry that he has to eat salad? How prophetic.

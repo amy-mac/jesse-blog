@@ -1,18 +1,18 @@
 ---
-author: jesse
-comments: true
-date: 2017-03-31 22:06:00 +0000
-layout: post
-link: http://jessemackinnon.com/2017/03/he-took-the-fifth/
-slug: he-took-the-fifth
 title: He Took the Fifth!
-wordpress_id: 510
+date: 2017-03-31 22:06:00 Z
 categories:
 - Politics
 tags:
 - Justice
-excerpt_separator: <!--more-->
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/03/he-took-the-fifth/
+wordpress_id: 510
+excerpt_separator: "<!--more-->"
 ---
+
 <img src="/images/2017/scales.jpg" alt="">
 
 I think we're far enough away from any big legal drama playing out in the news that I can go into this subject. I kind of have a feeling it's going to be an issue again pretty soon, so let's clear something up:

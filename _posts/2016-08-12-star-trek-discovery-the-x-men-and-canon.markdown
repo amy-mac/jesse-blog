@@ -1,22 +1,18 @@
 ---
-author: jesse
-comments: true
-date: 2016-08-12 05:56:30 +0000
-layout: post
-link: http://jessemackinnon.com/2016/08/star-trek-discovery-the-x-men-and-canon/
-slug: star-trek-discovery-the-x-men-and-canon
 title: 'Star Trek: Discovery, the X-Men, and Canon.'
-wordpress_id: 380
+date: 2016-08-12 05:56:30 Z
 categories:
 - Star Trek
 tags:
 - Canon
 - Discovery
 - X-Men
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/08/star-trek-discovery-the-x-men-and-canon/
+wordpress_id: 380
 ---
-
-
-
 
 So people are making hay about Star Trek: Discovery bending or breaking canon, and I have this to say...
 

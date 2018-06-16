@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-12-15 16:41:17 +0000
-layout: post
-link: http://jessemackinnon.com/2015/12/exile-in-the-21st-century/
-slug: exile-in-the-21st-century
 title: An argument for Exile in the 21st Century.
-wordpress_id: 270
+date: 2015-12-15 16:41:17 Z
 categories:
 - Film and Media
 tags:
 - Star Wars
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/12/exile-in-the-21st-century/
+wordpress_id: 270
 ---
 
 Ostracism was a procedure under the Athenian democracy in which any citizen could be expelled from the city-state for ten years. Each year the Athenians were asked in the assembly whether they wished to hold an ostracism. Citizens gave the name of those they wished to be ostracised to a scribe, and they would vote. The person nominated had ten days to leave the city. If he attempted to return, the penalty was death.

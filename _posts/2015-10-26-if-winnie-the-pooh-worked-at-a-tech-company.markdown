@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2015-10-26 04:07:43 +0000
-layout: post
-link: http://jessemackinnon.com/2015/10/if-winnie-the-pooh-worked-at-a-tech-company/
-slug: if-winnie-the-pooh-worked-at-a-tech-company
 title: If Winnie the Pooh worked at a Tech company.
-wordpress_id: 154
+date: 2015-10-26 04:07:43 Z
 categories:
 - Politics
 tags:
@@ -14,6 +8,11 @@ tags:
 - San Francisco
 - Tech
 - Winnie the Pooh
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/10/if-winnie-the-pooh-worked-at-a-tech-company/
+wordpress_id: 154
 ---
 
 If the residents of the Hundred Acre Wood worked at a Bay Area tech company...

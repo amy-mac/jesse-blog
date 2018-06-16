@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2014-12-07 19:00:57 +0000
-layout: post
-link: http://jessemackinnon.com/2014/12/protesting/
-slug: protesting
 title: Protesting.
-wordpress_id: 69
+date: 2014-12-07 19:00:57 Z
 categories:
 - Politics
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/12/protesting/
+wordpress_id: 69
 ---
 
 Before get into the thick of it, here’s a pretty big disclaimer: many Americans would consider me a part of the “radical” left. In 2003 I marched my feet off against the Iraq War. In 2011, I was a part of the Occupy movement. And taking to the streets is not something that I’m not averse to doing again.

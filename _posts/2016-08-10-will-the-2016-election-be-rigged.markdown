@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-08-10 21:18:39 +0000
-layout: post
-link: http://jessemackinnon.com/2016/08/will-the-2016-election-be-rigged/
-slug: will-the-2016-election-be-rigged
 title: Will the 2016 Election be Rigged?
-wordpress_id: 377
+date: 2016-08-10 21:18:39 Z
 categories:
 - Politics
 tags:
@@ -14,10 +8,12 @@ tags:
 - Donald Trump
 - Republicans
 - Voter ID Laws
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/08/will-the-2016-election-be-rigged/
+wordpress_id: 377
 ---
-
-
-
 
 Through the whole 2016 election cycle, I think the allegations of vote rigging in this election cycle are the most dangerous. Now saying "the system is rigged" is so broad that it can really mean anything.
 

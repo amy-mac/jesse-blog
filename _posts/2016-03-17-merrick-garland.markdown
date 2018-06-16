@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-03-17 20:58:27 +0000
-layout: post
-link: http://jessemackinnon.com/2016/03/merrick-garland/
-slug: merrick-garland
 title: Merrick Garland.
-wordpress_id: 313
+date: 2016-03-17 20:58:27 Z
 categories:
 - Politics
 tags:
 - Obama
 - Supreme Court
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/03/merrick-garland/
+wordpress_id: 313
 ---
 
 I’m tickled that people, particularly some on the left, actually think that Merrick Garland is some kind of ideal Obama pick. Yes, in the past the normal process for this process was that a President would make a nomination, and if the nominee was reasonably competent, the Senate would approve. Yes, it would be ideal to break as many glass ceilings as we can. If Obama actually expected Garland to be approved, he would indeed be a poor choice. But I’d argue that it is extremely unlikely that Garland will eventually be nominated.

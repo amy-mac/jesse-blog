@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-17 18:03:32 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/need-in-a-land-of-plenty/
-slug: need-in-a-land-of-plenty
 title: Need in a land of Plenty.
-wordpress_id: 241
+date: 2015-11-17 18:03:32 Z
 categories:
 - Politics
 tags:
 - Capitalism
 - Income Inequality
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/need-in-a-land-of-plenty/
+wordpress_id: 241
 ---
 
 What is currency? It is imaginary little numbers in computers and printed on pieces of paper that determine how a society allocates its resources.

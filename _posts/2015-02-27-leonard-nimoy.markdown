@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-02-27 18:30:20 +0000
-layout: post
-link: http://jessemackinnon.com/2015/02/leonard-nimoy/
-slug: leonard-nimoy
 title: Leonard Nimoy.
-wordpress_id: 54
+date: 2015-02-27 18:30:20 Z
 categories:
 - Film and Media
 - Star Trek
 tags:
 - Spock
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/02/leonard-nimoy/
+wordpress_id: 54
 ---
 
 Leonard Nimoy has passed today.

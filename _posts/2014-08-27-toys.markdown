@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2014-08-27 18:00:38 +0000
-layout: post
-link: http://jessemackinnon.com/2014/08/toys/
-slug: toys
 title: Toys
-wordpress_id: 86
+date: 2014-08-27 18:00:38 Z
 categories:
 - Film and Media
 - Politics
 tags:
 - Feminism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/08/toys/
+wordpress_id: 86
 ---
 
 A perfect metaphor for the problems our media faces is that: what sections in toy stores are like. We have large swaths of the toy store that are coded as acceptable for boys; the LEGOs, the basketballs, the trains. Here's where you find the chemistry sets and anything relevant to professions and careers. Yet there's the narrow section that is relegated to girls. It is awash in pink, and the large majority of it relates to domesticity right out of the 1950s. But here's the thing. It is socially acceptable, indeed often encouraged, for the girls to go into the "boys section." Because, good luck finding a telescope in that sea of fuchsia. Or God forbid that she wants to play with a LEGO set that's not a café. Yet most people, even in California, in spite of their liberal pretensions, react with such strident opposition when a boy decides that he wants a pink baking set.

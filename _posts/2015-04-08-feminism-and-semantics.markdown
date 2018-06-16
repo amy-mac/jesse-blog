@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-04-08 18:00:53 +0000
-layout: post
-link: http://jessemackinnon.com/2015/04/feminism-and-semantics/
-slug: feminism-and-semantics
 title: Feminism and Semantics.
-wordpress_id: 51
+date: 2015-04-08 18:00:53 Z
 categories:
 - Politics
 tags:
 - Feminism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/04/feminism-and-semantics/
+wordpress_id: 51
 ---
 
 I've always been amused by the purely semantic argument against Feminism; the notion that because we have nominally equal political rights there is no need for the movement, or that Feminists must want societal privileges at the expense of men.

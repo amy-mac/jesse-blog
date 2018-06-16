@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2015-10-02 19:55:31 +0000
-layout: post
-link: http://jessemackinnon.com/2015/10/mass-violence/
-slug: mass-violence
 title: Mass Violence.
-wordpress_id: 123
+date: 2015-10-02 19:55:31 Z
 categories:
 - Politics
 tags:
@@ -14,6 +8,11 @@ tags:
 - Mental Illness
 - National Rifle Association
 - Violence
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/10/mass-violence/
+wordpress_id: 123
 ---
 
 _No one's ever even gonna care if we're alive,_

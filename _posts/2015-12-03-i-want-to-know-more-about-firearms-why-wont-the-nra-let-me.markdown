@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-12-03 17:28:08 +0000
-layout: post
-link: http://jessemackinnon.com/2015/12/i-want-to-know-more-about-firearms-why-wont-the-nra-let-me/
-slug: i-want-to-know-more-about-firearms-why-wont-the-nra-let-me
 title: I want to know more about Firearms. Why won't the NRA let me?
-wordpress_id: 260
+date: 2015-12-03 17:28:08 Z
 categories:
 - Politics
 tags:
 - Gun Control
 - National Rifle Association
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/12/i-want-to-know-more-about-firearms-why-wont-the-nra-let-me/
+wordpress_id: 260
 ---
 
 I consider myself left-leaning but moderate when it comes to issues of gun ownership. I have plenty of friends who are responsible gun owners. But (as any of you watching my feed yesterday can tell), I've been getting increasingly upset as these high profile mass shootings have become a dismal routine--not to mention the 82 firearm related homicides here in Oakland this year.

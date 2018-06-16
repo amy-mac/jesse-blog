@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-07-08 20:20:08 +0000
-layout: post
-link: http://jessemackinnon.com/2016/07/black-anger-and-history/
-slug: black-anger-and-history
 title: Black Anger and History.
-wordpress_id: 354
+date: 2016-07-08 20:20:08 Z
 categories:
 - History
 - Politics
@@ -14,6 +8,11 @@ tags:
 - Black Lives Matter
 - Criminal Justice Reform
 - Ku Klux Klan
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/07/black-anger-and-history/
+wordpress_id: 354
 ---
 
 In 2013, Phil Robertson said of Black people in the South in the 1950s, “They’re singing and happy,” and denied that any racial animus bothered them. Now that race is dominating headlines, once again a plethora of white people seem to be claiming that black anger is a recent phenomenon. This is certainly not the case.

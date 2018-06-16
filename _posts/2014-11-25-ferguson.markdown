@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2014-11-25 17:00:22 +0000
-layout: post
-link: http://jessemackinnon.com/2014/11/ferguson/
-slug: ferguson
 title: Ferguson.
-wordpress_id: 78
+date: 2014-11-25 17:00:22 Z
 categories:
 - Politics
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/11/ferguson/
+wordpress_id: 78
 ---
 
 I wake up and see many people more outraged over rioting than the monstrous miscarriage of justice that has occurred. It reminds me of the Occupy Movement, and the "outrage" over camps set up in downtown San Francisco and Oakland.

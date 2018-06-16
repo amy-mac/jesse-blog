@@ -1,15 +1,14 @@
 ---
-author: jesse
-comments: true
-date: 2017-03-22 04:21:11 +0000
-layout: post
-link: http://jessemackinnon.com/2017/03/my-favorite-movie-of-the-year/
-slug: my-favorite-movie-of-the-year
 title: My Favorite Movie of the Year.
-wordpress_id: 515
+date: 2017-03-22 04:21:11 Z
 categories:
 - Film and Media
-excerpt_separator: <!--more-->
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/03/my-favorite-movie-of-the-year/
+wordpress_id: 515
+excerpt_separator: "<!--more-->"
 ---
 
 <!--more-->

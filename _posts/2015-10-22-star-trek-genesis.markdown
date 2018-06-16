@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2015-10-22 18:53:11 +0000
-layout: post
-link: http://jessemackinnon.com/2015/10/star-trek-genesis/
-slug: star-trek-genesis
 title: 'Star Trek: Genesis'
-wordpress_id: 132
+date: 2015-10-22 18:53:11 Z
 categories:
 - Star Trek
 tags:
@@ -14,6 +8,11 @@ tags:
 - Forbidden Planet
 - Gene Roddenberry
 - The Twilight Zone
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/10/star-trek-genesis/
+wordpress_id: 132
 ---
 
 The blog I’m going to write isn’t meant to be an all-encompassing treatise on the making of _Star Trek_. Nor am I planning on including plot summaries, or details of guest stars, or anything to make these entries remotely encyclopedic. Instead, I’m going to provide the one thing that can’t be found anywhere else in the world: my personal reactions to the _Star Trek_ franchise, in the order that they unfolded.

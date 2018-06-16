@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-03-17 23:01:51 +0000
-layout: post
-link: http://jessemackinnon.com/2017/03/the-irish-diaspora/
-slug: the-irish-diaspora
 title: The Irish Diaspora.
-wordpress_id: 517
+date: 2017-03-17 23:01:51 Z
 categories:
 - History
 tags:
 - Austerity
 - Irish
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/03/the-irish-diaspora/
+wordpress_id: 517
 ---
 
 On this day when millions of people celebrate the Irish diaspora in America, it's worth reflecting on the circumstances surrounding their departure from Ireland. During the "famine," there was more than enough food being grown to feed everyone, but it was being exported to fetch a better profit.

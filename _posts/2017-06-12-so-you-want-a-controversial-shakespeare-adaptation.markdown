@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2017-06-12 04:36:35 +0000
-layout: post
-link: http://jessemackinnon.com/2017/06/so-you-want-a-controversial-shakespeare-adaptation/
-slug: so-you-want-a-controversial-shakespeare-adaptation
 title: So You Want a Controversial Shakespeare Adaptation?
-wordpress_id: 497
+date: 2017-06-12 04:36:35 Z
 categories:
 - Film and Media
 tags:
 - Donald Trump
 - Julius Caesar
 - Shakespeare
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/06/so-you-want-a-controversial-shakespeare-adaptation/
+wordpress_id: 497
 ---
 
 It turns out that there's a Conservative furor over a Shakespeare in the Park production of Julius Caesar that features a blond Caesar, costumed in a suit. Well for once, I agree with the conservatives, this was a stupid staging that should never have been performed!

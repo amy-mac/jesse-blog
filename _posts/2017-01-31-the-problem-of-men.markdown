@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-01-31 00:34:44 +0000
-layout: post
-link: http://jessemackinnon.com/2017/01/the-problem-of-men/
-slug: the-problem-of-men
 title: The Problem of Men.
-wordpress_id: 549
+date: 2017-01-31 00:34:44 Z
 categories:
 - Politics
 tags:
 - Terrorism
 - Violence
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/01/the-problem-of-men/
+wordpress_id: 549
 ---
 
 Every year, an average of 1,300 Americans are killed due to domestic violence. 93% of the perpetrators are male.

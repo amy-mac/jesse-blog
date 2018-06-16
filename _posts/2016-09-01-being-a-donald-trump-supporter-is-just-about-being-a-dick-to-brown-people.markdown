@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2016-09-01 15:52:59 +0000
-layout: post
-link: http://jessemackinnon.com/2016/09/being-a-donald-trump-supporter-is-just-about-being-a-dick-to-brown-people/
-slug: being-a-donald-trump-supporter-is-just-about-being-a-dick-to-brown-people
 title: Being a Donald Trump supporter is just about being a dick to brown people.
-wordpress_id: 397
+date: 2016-09-01 15:52:59 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - immigration
 - Racism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/09/being-a-donald-trump-supporter-is-just-about-being-a-dick-to-brown-people/
+wordpress_id: 397
 ---
 
 In another 360 degree turn like the world's shittiest lazy Susan, Donald Trump reminded us just how horrible he can be.

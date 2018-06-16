@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2017-09-26 17:40:09 +0000
-layout: post
-link: http://jessemackinnon.com/2017/09/star-trek-is-dead/
-slug: star-trek-is-dead
 title: Star Trek is dead. Long live Star Trek!
-wordpress_id: 579
+date: 2017-09-26 17:40:09 Z
 categories:
 - Star Trek
 tags:
 - Discovery
 - Klingons
 - Michael Burnham
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/09/star-trek-is-dead/
+wordpress_id: 579
 excerpt_separator: "<!--more-->"
 ---
 

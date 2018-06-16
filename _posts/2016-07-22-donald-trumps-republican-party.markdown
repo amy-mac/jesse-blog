@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-07-22 04:17:51 +0000
-layout: post
-link: http://jessemackinnon.com/2016/07/donald-trumps-republican-party/
-slug: donald-trumps-republican-party
 title: Donald Trump's Republican Party.
-wordpress_id: 358
+date: 2016-07-22 04:17:51 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - Republicans
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/07/donald-trumps-republican-party/
+wordpress_id: 358
 ---
 
 It’s very telling that Trump has been touting “law and order” as the cornerstone of his speech at the Republican National Convention. Indeed, appeals to that idea has perhaps been the cornerstone of Republican strategy for decades.

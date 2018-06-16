@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-07-23 01:40:01 +0000
-layout: post
-link: http://jessemackinnon.com/2017/07/whither-transgender/
-slug: whither-transgender
 title: Whither Transgender?
-wordpress_id: 525
+date: 2017-07-23 01:40:01 Z
 categories:
 - Politics
 tags:
 - LGBT
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/07/whither-transgender/
+wordpress_id: 525
 ---
 
 I assure you, you've shared a bathroom with a transgender person before. Having essentially "lost" the gay marriage issue, the GOP decided that they needed to weaponize more bigotry, and decided to start making this their new battleground.

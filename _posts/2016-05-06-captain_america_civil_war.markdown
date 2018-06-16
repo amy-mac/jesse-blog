@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-05-06 16:53:53 +0000
-layout: post
-link: http://jessemackinnon.com/2016/05/captain_america_civil_war/
-slug: captain_america_civil_war
 title: 'Captain America: Civil War, or, why wasn''t this two movies again?'
-wordpress_id: 319
+date: 2016-05-06 16:53:53 Z
 categories:
 - Film and Media
 - Reviews
@@ -16,6 +10,11 @@ tags:
 - Iron Man
 - Marvel
 - The Avengers
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/05/captain_america_civil_war/
+wordpress_id: 319
 ---
 
 #### Captain America must fight against a dangerous overreach of government power, while trying to redeem his former friend, turned brainwashed assassin.

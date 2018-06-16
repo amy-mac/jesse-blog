@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-24 17:20:17 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/spectre/
-slug: spectre
 title: 'James Bond: The Spectre of Emotions the Film Never Actually Earns.'
-wordpress_id: 247
+date: 2015-11-24 17:20:17 Z
 categories:
 - Film and Media
 tags:
 - James Bond
 - NSA
 - Spectre
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/spectre/
+wordpress_id: 247
 ---
 
 **[yasr_overall_rating]**

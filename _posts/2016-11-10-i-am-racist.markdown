@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2016-11-10 00:23:22 +0000
-layout: post
-link: http://jessemackinnon.com/2016/11/i-am-racist/
-slug: i-am-racist
 title: I am Racist.
-wordpress_id: 457
+date: 2016-11-10 00:23:22 Z
 categories:
 - Politics
 tags:
 - Black Lives Matter
 - Donald Trump
 - Racism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/11/i-am-racist/
+wordpress_id: 457
 ---
 
 The President-elect built his coalition on stoking the racial antipathy of white people. Low income Americans voted for Clinton over Trump by an over 10% margin. Trump won a two-to-one victory in counties where the unemployment rate has improved the most since 2010. When examining this electoral defeat, let’s forget about scandals and party infighting. Donald Trump was elected President because 47% of Americans were either wildly enthusiastic about the inclusion of open racial hatred into our national life, or more concerned with receiving tax cuts than with the safety of their fellow Americans.

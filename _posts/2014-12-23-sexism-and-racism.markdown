@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2014-12-23 19:00:47 +0000
-layout: post
-link: http://jessemackinnon.com/2014/12/sexism-and-racism/
-slug: sexism-and-racism
 title: Sexism and Racism.
-wordpress_id: 66
+date: 2014-12-23 19:00:47 Z
 categories:
 - Politics
 tags:
 - Feminism
 - Gamergate
 - Race
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/12/sexism-and-racism/
+wordpress_id: 66
 ---
 
 There have been two social issues heavily dominating national discourse at the moment. One has been the rather inescapable issue of race and policing dominating the national media. The other has been somewhat more niche. If you haven’t heard of [‪#‎GamerGate‬](https://www.facebook.com/hashtag/gamergate?source=feed_text&story_id=10104007742129466), please do yourself a favor and don’t subject yourself to that particular swamp. In short, it is a “discussion” about women’s roles in online spaces, that more often than not takes the form of death threats.

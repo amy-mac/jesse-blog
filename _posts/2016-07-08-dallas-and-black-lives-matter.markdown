@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-07-08 05:57:27 +0000
-layout: post
-link: http://jessemackinnon.com/2016/07/dallas-and-black-lives-matter/
-slug: dallas-and-black-lives-matter
 title: Dallas and Black Lives Matter.
-wordpress_id: 351
+date: 2016-07-08 05:57:27 Z
 categories:
 - Politics
 tags:
 - Black Lives Matter
 - Dallas
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/07/dallas-and-black-lives-matter/
+wordpress_id: 351
 ---
 
 First and foremost, let us say that the premature loss of any human life is a tragedy. Even the lowest and basest of us do not deserve violent ends. What follows is not a judgment on the officers who lost their lives in Dallas last night. Make no mistake, those men deserved to go home to their families and live good, long lives.

@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-03 17:00:44 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/jesse-writes-the-star-wars-prequels/
-slug: jesse-writes-the-star-wars-prequels
 title: Jesse Writes the Star Wars Prequels.
-wordpress_id: 192
+date: 2015-11-03 17:00:44 Z
 categories:
 - Film and Media
 tags:
 - Star Wars
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/jesse-writes-the-star-wars-prequels/
+wordpress_id: 192
 ---
 
 _The problems with the _Star Wars_ Prequels go beyond the dialogue and the directing. They shunt the vast majority of the actual story into _Revenge of the Sith_. As a result, the first two films feel empty, and _Episode III_ feels incredibly rushed. This is my attempt to redress that._

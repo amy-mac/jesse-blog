@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-02 00:26:04 +0000
-layout: post
-link: http://jessemackinnon.com/2017/02/turd-monkey/
-slug: turd-monkey
 title: Turd Monkey.
-wordpress_id: 542
+date: 2017-02-02 00:26:04 Z
 categories:
 - Politics
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/02/turd-monkey/
+wordpress_id: 542
 ---
 
 Here's a primer on Milo Yiannopoulos, or Turd Monkey as I like to call him. If you've been out of geek circles it's possible to have to have missed him, but for those of us who were active online during Gamer Gate, it was kind of hard to.

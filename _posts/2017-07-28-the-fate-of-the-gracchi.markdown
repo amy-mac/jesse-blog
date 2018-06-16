@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-07-28 06:39:36 +0000
-layout: post
-link: http://jessemackinnon.com/2017/07/the-fate-of-the-gracchi/
-slug: the-fate-of-the-gracchi
 title: The Fate of the Gracchi and the Future.
-wordpress_id: 476
+date: 2017-07-28 06:39:36 Z
 categories:
 - History
 tags:
 - Caesar
 - Rome
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/07/the-fate-of-the-gracchi/
+wordpress_id: 476
 excerpt_separator: "<!--more-->"
 ---
 

@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2014-11-25 19:00:20 +0000
-layout: post
-link: http://jessemackinnon.com/2014/11/race-class-and-zombies/
-slug: race-class-and-zombies
 title: Race, Class... and Zombies
-wordpress_id: 75
+date: 2014-11-25 19:00:20 Z
 categories:
 - Film and Media
 - Politics
 tags:
 - Race
 - Zombies
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2014/11/race-class-and-zombies/
+wordpress_id: 75
 ---
 
 I want to talk about media. The movies we watch, the games we play, the books we read are hugely influential to our culture, and even our politics. So I want to say a few things about that culture.

@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-01 16:29:07 +0000
-layout: post
-link: http://jessemackinnon.com/2017/02/black-history-month/
-slug: black-history-month
 title: Black History Month.
-wordpress_id: 544
+date: 2017-02-01 16:29:07 Z
 categories:
 - History
 - Politics
 tags:
 - Racism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/02/black-history-month/
+wordpress_id: 544
 ---
 
 !["Happy Black History Month! Or as we'll probably hear from the White House, Happy The Irish Were Slaves Too Month!"](/images/2017/black-history.jpg)

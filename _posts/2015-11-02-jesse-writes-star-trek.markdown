@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-02 19:57:29 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/jesse-writes-star-trek/
-slug: jesse-writes-star-trek
 title: Jesse Writes Star Trek.
-wordpress_id: 182
+date: 2015-11-02 19:57:29 Z
 categories:
 - Star Trek
 tags:
 - Fan Fiction
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/jesse-writes-star-trek/
+wordpress_id: 182
 ---
 
 _Yes, this is my obligatory "I'm excited about today's announcement" post._

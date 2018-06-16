@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-06-28 04:01:19 +0000
-layout: post
-link: http://jessemackinnon.com/2017/06/comic-books/
-slug: comic-books
 title: Comic Books, and How We Remember.
-wordpress_id: 488
+date: 2017-06-28 04:01:19 Z
 categories:
 - Film and Media
 tags:
@@ -15,6 +9,11 @@ tags:
 - Marvel
 - Stan Lee
 - Steve Ditko
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/06/comic-books/
+wordpress_id: 488
 ---
 
 I'm going to talk about comic books. Even if you don't like comic books, I'd encourage you to read, because I'm going to touch on broader issues.

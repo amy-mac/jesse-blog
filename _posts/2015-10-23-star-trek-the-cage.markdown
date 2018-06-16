@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2015-10-23 19:17:19 +0000
-layout: post
-link: http://jessemackinnon.com/2015/10/star-trek-the-cage/
-slug: star-trek-the-cage
 title: 'Star Trek: The Cage, or, How I Learned to Stop Living and Love Television.'
-wordpress_id: 143
+date: 2015-10-23 19:17:19 Z
 categories:
 - Star Trek
 tags:
 - Feminism
 - Gene Roddenberry
 - Spock
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/10/star-trek-the-cage/
+wordpress_id: 143
 ---
 
 ### Mojave is now lush parkland. Is this some kind of sick joke?

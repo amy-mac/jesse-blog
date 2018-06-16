@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2017-07-22 17:07:45 +0000
-layout: post
-link: http://jessemackinnon.com/2017/07/the-alternate-history-we-need/
-slug: the-alternate-history-we-need
 title: The Alternate History We Need.
-wordpress_id: 483
+date: 2017-07-22 17:07:45 Z
 categories:
 - Film and Media
 tags:
 - Afrofuturism
 - Confederacy
 - Lost Cause
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/07/the-alternate-history-we-need/
+wordpress_id: 483
 ---
 
 <img src="/images/2017/afrofuturism_sm.png" alt="">

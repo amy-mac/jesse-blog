@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2016-07-19 06:37:41 +0000
-layout: post
-link: http://jessemackinnon.com/2016/07/belief-hatred-and-the-democratic-primary/
-slug: belief-hatred-and-the-democratic-primary
 title: Belief, Hatred, and the Democratic Primary.
-wordpress_id: 338
+date: 2016-07-19 06:37:41 Z
 categories:
 - Politics
 tags:
 - Bernie Sanders
 - Democratic Party
 - Hillary Clinton
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/07/belief-hatred-and-the-democratic-primary/
+wordpress_id: 338
 ---
 
 Almost a year ago I was talking with a former student of mine and I was starting to talk about the most recent book I had read, a [biography-cum-historiography of Ulysses S Grant](http://smile.amazon.com/dp/1469609908), written by my old advisor at UCLA. But I had scarcely gotten a sentence out when another friend in the room blurted out:

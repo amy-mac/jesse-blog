@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-17 00:04:24 +0000
-layout: post
-link: http://jessemackinnon.com/2017/02/welcome-to-your-kleptocracy/
-slug: welcome-to-your-kleptocracy
 title: Welcome to your Kleptocracy.
-wordpress_id: 539
+date: 2017-02-17 00:04:24 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - Republican Party
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/02/welcome-to-your-kleptocracy/
+wordpress_id: 539
 ---
 
 When this whole thing crashes and burns, every GOP operative and representative are going to be trying to distance themselves and their ideology from him. A key part of doing that will be rhetorically distancing themselves from the notion that his Presidency was legitimate or anything other than an aberration. So it's actually really important for you to not use nicknames to refer to him, and to use the proper honorifics associated with him: President Trump, the Republican POTUS.

@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-18 05:25:28 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/charlie-x-or-how-uhuras-song-conquers-all/
-slug: charlie-x-or-how-uhuras-song-conquers-all
 title: Charlie X; or, how Uhura's song conquers all.
-wordpress_id: 453
+date: 2016-10-18 05:25:28 Z
 categories:
 - Star Trek
 tags:
 - Charlie X
 - Uhura
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/charlie-x-or-how-uhuras-song-conquers-all/
+wordpress_id: 453
 ---
 
 Upon a second viewing, I’ve actually revised my opinion of this episode upward. I’m no longer putting it in my “Red Shirt” category of episodes I think should be skipped. I now think this is a critical episode of Star Trek, in spite of some difficult scenes, and here’s why.

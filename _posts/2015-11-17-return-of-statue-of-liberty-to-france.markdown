@@ -1,19 +1,18 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-17 16:48:50 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/return-of-statue-of-liberty-to-france/
-slug: return-of-statue-of-liberty-to-france
 title: 'BREAKING: François Hollande and Barack Obama Negotiate Return of Statue of
   Liberty to France'
-wordpress_id: 237
+date: 2015-11-17 16:48:50 Z
 categories:
 - Politics
 tags:
 - Evangelicals
 - immigration
 - Statue of Liberty
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/return-of-statue-of-liberty-to-france/
+wordpress_id: 237
 ---
 
 Nov 16, 5:58 PM EST

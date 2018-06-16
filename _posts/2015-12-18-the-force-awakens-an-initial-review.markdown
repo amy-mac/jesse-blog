@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-12-18 07:08:34 +0000
-layout: post
-link: http://jessemackinnon.com/2015/12/the-force-awakens-an-initial-review/
-slug: the-force-awakens-an-initial-review
 title: 'The Force Awakens: Initial Reactions, Mostly Spoiler-Free.'
-wordpress_id: 276
+date: 2015-12-18 07:08:34 Z
 categories:
 - Reviews
 tags:
 - Star Wars
 - The Force Awakens
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/12/the-force-awakens-an-initial-review/
+wordpress_id: 276
 ---
 
 ### Well that was a hell of a thing.

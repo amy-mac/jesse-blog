@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-08-07 16:32:39 +0000
-layout: post
-link: http://jessemackinnon.com/2017/08/war-is-failure/
-slug: war-is-failure
 title: War is Failure.
-wordpress_id: 530
+date: 2017-08-07 16:32:39 Z
 categories:
 - History
 - Politics
@@ -15,6 +9,11 @@ tags:
 - Nationalism
 - Piers Morgan
 - World War II
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/08/war-is-failure/
+wordpress_id: 530
 ---
 
 <strong>Today is Purple Heart Day. The best way to honor those who have sacrificed is to ensure that future generations do not have to bear the same horrors.</strong>

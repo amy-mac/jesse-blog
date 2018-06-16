@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-11 01:03:23 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/will-the-election-be-rigged-volume-2/
-slug: will-the-election-be-rigged-volume-2
 title: Will the Election be rigged? Volume 2
-wordpress_id: 444
+date: 2016-10-11 01:03:23 Z
 categories:
 - Politics
 tags:
 - Elections
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/will-the-election-be-rigged-volume-2/
+wordpress_id: 444
 ---
 
 Today on the campaign trail, Donald J. Trump once again raised the possibility of electoral fraud in November.

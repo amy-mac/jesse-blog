@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2018-02-14 16:28:31 +0000
-layout: post
-link: http://jessemackinnon.com/2018/02/black-panther-primer/
-slug: black-panther-primer
 title: A Black Panther Primer
-wordpress_id: 596
+date: 2018-02-14 16:28:31 Z
 categories:
 - Film and Media
 tags:
 - Black Panther
 - Comics
 - Marvel
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2018/02/black-panther-primer/
+wordpress_id: 596
 excerpt_separator: "<!--more-->"
 ---
 

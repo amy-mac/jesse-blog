@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-06-26 18:00:20 +0000
-layout: post
-link: http://jessemackinnon.com/2015/06/todays-ruling/
-slug: todays-ruling
 title: Today's Ruling.
-wordpress_id: 34
+date: 2015-06-26 18:00:20 Z
 categories:
 - Politics
 tags:
 - LGBT Rights
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/06/todays-ruling/
+wordpress_id: 34
 ---
 
 Given the national conversation taking place this week, it is worth noting that, borne of the carnage of the Civil War came three great Amendments to our Constitution, that have fundamentally shaped our perception of our rights as Americans ever since. Here is the critically relevant passage from the Fourteenth Amendment:

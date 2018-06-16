@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-10 08:24:43 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/im-with-her/
-slug: im-with-her
 title: I'm With Her.
-wordpress_id: 439
+date: 2016-10-10 08:24:43 Z
 categories:
 - Politics
 tags:
 - Hillary Clinton
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/im-with-her/
+wordpress_id: 439
 ---
 
 Given the massive amount of shit in the shape of an Oompa Loompa on the debate stage, there was not as much policy on stage as their should have been. So here’s why I’m voting for Hillary Clinton.

@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2016-09-09 20:33:44 +0000
-layout: post
-link: http://jessemackinnon.com/2016/09/the-original-star-trek-a-recommended-episode-order/
-slug: the-original-star-trek-a-recommended-episode-order
 title: 'The original Star Trek: A Recommended Episode Order'
-wordpress_id: 407
+date: 2016-09-09 20:33:44 Z
 categories:
 - Star Trek
 tags:
 - Canon
 - Watch Orders
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/09/the-original-star-trek-a-recommended-episode-order/
+wordpress_id: 407
 ---
 
 Every few years, someone asks me for recommendations of a few episodes of the original Star Trek series to watch.

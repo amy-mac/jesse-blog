@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2015-06-19 18:00:26 +0000
-layout: post
-link: http://jessemackinnon.com/2015/06/the-confederacy/
-slug: the-confederacy
 title: The Confederacy.
-wordpress_id: 37
+date: 2015-06-19 18:00:26 Z
 categories:
 - History
 - Politics
 tags:
 - Civil War
 - Confederacy
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/06/the-confederacy/
+wordpress_id: 37
 ---
 
 The Confederate States of America was fundamentally built upon the institution of Slavery.

@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-17 16:36:51 +0000
-layout: post
-link: http://jessemackinnon.com/2017/02/the-future-of-general-leia/
-slug: the-future-of-general-leia
 title: The Future of General Leia.
-wordpress_id: 536
+date: 2017-02-17 16:36:51 Z
 categories:
 - Film and Media
 tags:
 - Carrie Fisher
 - General Leia
 - Star Wars
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/02/the-future-of-general-leia/
+wordpress_id: 536
 ---
 
 Unpopular opinion of the night:

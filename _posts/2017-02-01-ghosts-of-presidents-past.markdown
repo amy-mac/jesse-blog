@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-02-01 00:32:43 +0000
-layout: post
-link: http://jessemackinnon.com/2017/01/ghosts-of-presidents-past/
-slug: ghosts-of-presidents-past
 title: Ghosts of Presidents Past...
-wordpress_id: 547
+date: 2017-02-01 00:32:43 Z
 categories:
 - Politics
 tags:
 - Donald Trump
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/01/ghosts-of-presidents-past/
+wordpress_id: 547
 ---
 
 His first weekend in the White House, Donald Trump was visited by the ghost of George Washington. Donald asked him, "George, what can I do to best serve the United States?"

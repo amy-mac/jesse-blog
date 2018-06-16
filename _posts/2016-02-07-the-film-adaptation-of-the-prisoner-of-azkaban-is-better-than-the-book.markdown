@@ -1,18 +1,17 @@
 ---
-author: jesse
-comments: true
-date: 2016-02-07 21:08:25 +0000
-layout: post
-link: http://jessemackinnon.com/2016/02/the-film-adaptation-of-the-prisoner-of-azkaban-is-better-than-the-book/
-slug: the-film-adaptation-of-the-prisoner-of-azkaban-is-better-than-the-book
 title: The film adaptation of The Prisoner of Azkaban is better than the book.
-wordpress_id: 303
+date: 2016-02-07 21:08:25 Z
 categories:
 - Film and Media
 tags:
 - Harry Potter
 - J.K. Rowling
 - The Prisoner of Azkaban
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/02/the-film-adaptation-of-the-prisoner-of-azkaban-is-better-than-the-book/
+wordpress_id: 303
 ---
 
 The writing of the Harry Potter series becomes more sophisticated as the books progress. It starts with _Philosopher's_ and _Chamber_, which are written for a younger audience. The themes are relatively simple. Then in _Azkaban_, J.K. Rowling seems to decide that she wants to be more ambitious with the series. The introduction of Sirius Black, Peter Pettigrew, and Remus Lupin make the characters’ relationship adds a complexity to the mythology of Hogwarts that hadn’t been present in the previous two books. Further, it ends with very large plot threads unresolved. The narrative dividing line between books begins to be blurred, instead of most of the plot resolving at the end of each book. Finally, the series starts to take a more thematically complex turn, pushing the boundaries of “Young Adult” literature by _Phoenix_.

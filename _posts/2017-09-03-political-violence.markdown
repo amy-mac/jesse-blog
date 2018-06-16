@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-09-03 13:59:37 +0000
-layout: post
-link: http://jessemackinnon.com/2017/09/political-violence/
-slug: political-violence
 title: Political Violence.
-wordpress_id: 559
+date: 2017-09-03 13:59:37 Z
 categories:
 - Politics
 tags:
 - black bloc
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/09/political-violence/
+wordpress_id: 559
 ---
 
 It’s incredible the kind of sanitized version of activism Americans believed existed before the modern day. Unions and Suffragettes started fires and planted bombs. They engaged in civil disobedience and had to be ready to defend themselves against both fellow citizens and police. In the Civil Rights movement, the Freedom Riders and lunch counter sit-ins were all violating local law, and defending themselves when brawling did break out was not unheard of. In one of the clearest through lines from violence to results, the gay rights movement didn’t start getting taken seriously until they started throwing bricks at cops.

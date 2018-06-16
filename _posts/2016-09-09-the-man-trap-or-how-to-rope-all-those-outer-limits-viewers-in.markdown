@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2016-09-09 15:30:20 +0000
-layout: post
-link: http://jessemackinnon.com/2016/09/the-man-trap-or-how-to-rope-all-those-outer-limits-viewers-in/
-slug: the-man-trap-or-how-to-rope-all-those-outer-limits-viewers-in
 title: The Man Trap, or how to rope all those Outer Limits viewers in.
-wordpress_id: 400
+date: 2016-09-09 15:30:20 Z
 categories:
 - Star Trek
 tags:
 - The Man Trap
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/09/the-man-trap-or-how-to-rope-all-those-outer-limits-viewers-in/
+wordpress_id: 400
 ---
 
 Why was this episode aired first? I’d wager that it is strikingly similar to the themes of The Twilight Zone and The Outer Limits. A creature stalks and kills unsuspecting humans… only to discover that it was misunderstood in the end. In the end, you can’t help but feeling empathy for the thing.

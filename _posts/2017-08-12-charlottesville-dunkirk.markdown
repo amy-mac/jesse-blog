@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-08-12 23:56:17 +0000
-layout: post
-link: http://jessemackinnon.com/2017/08/charlottesville-dunkirk/
-slug: charlottesville-dunkirk
 title: Charlottesville, Dunkirk, and "The Good War"
-wordpress_id: 554
+date: 2017-08-12 23:56:17 Z
 categories:
 - Film and Media
 - History
@@ -16,6 +10,11 @@ tags:
 - Racism
 - segregation
 - World War II
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/08/charlottesville-dunkirk/
+wordpress_id: 554
 ---
 
 In recent weeks, people have been critiquing the film Dunkirk for its lack of portrayal of colonial soldiers during the evacuation of British forces from France in 1940. This is certainly not without merit; British infantry was not segregated by race, with soldiers from the Caribbean serving in the Infantry alongside soldiers from the British Isles themselves. Ultimately the film focuses on three (and a half, exposition squirrel Branagh) narratives. It does not intend to be an all-encompassing view of the battle. Still, this criticism does bear weight, particularly in light of what virtually every other narrative of the Second World War leaves out.

@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2017-06-14 17:11:38 +0000
-layout: post
-link: http://jessemackinnon.com/2017/06/what-do-mass-shootings-have-in-common/
-slug: what-do-mass-shootings-have-in-common
 title: What Do Mass Shootings Have In Common?
-wordpress_id: 495
+date: 2017-06-14 17:11:38 Z
 categories:
 - Politics
 tags:
 - Mass Violence
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/06/what-do-mass-shootings-have-in-common/
+wordpress_id: 495
 ---
 
 In examining mass violence there's a big common thread. This includes ISIS or Robert Dear or James Hodgkinson. It transcends ideology. When one of these events transpires, you can count on some combination of two factors: an explicitly misogynistic attitude, and a history of domestic violence.

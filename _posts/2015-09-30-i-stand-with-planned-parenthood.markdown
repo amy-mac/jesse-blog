@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-09-30 14:00:52 +0000
-layout: post
-link: http://jessemackinnon.com/2015/09/i-stand-with-planned-parenthood/
-slug: i-stand-with-planned-parenthood
 title: I stand with Planned Parenthood.
-wordpress_id: 118
+date: 2015-09-30 14:00:52 Z
 categories:
 - Politics
 tags:
 - abortion
 - planned parenthood
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/09/i-stand-with-planned-parenthood/
+wordpress_id: 118
 ---
 
 Because this sure isn’t a controversial political issue.

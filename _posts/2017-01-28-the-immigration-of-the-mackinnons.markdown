@@ -1,20 +1,20 @@
 ---
-author: jesse
-comments: true
-date: 2017-01-28 00:41:51 +0000
-layout: post
-link: http://jessemackinnon.com/2017/01/the-immigration-of-the-mackinnons/
-slug: the-immigration-of-the-mackinnons
 title: The Immigration of the MacKinnons.
-wordpress_id: 551
+date: 2017-01-28 00:41:51 Z
 categories:
 - History
 - Politics
 tags:
 - immigration
 - Scotland
-excerpt_separator: <!--more-->
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/01/the-immigration-of-the-mackinnons/
+wordpress_id: 551
+excerpt_separator: "<!--more-->"
 ---
+
 <img src="/images/2017/castle-maol.jpg" alt="">
 
 I just poured myself a glass of Drambuie. On the rocks. It's a Scottish liqueur that was actually concocted by MacKinnons. Let me tell you about how this drink came to be and how this particular MacKinnon wound up here drinking it.

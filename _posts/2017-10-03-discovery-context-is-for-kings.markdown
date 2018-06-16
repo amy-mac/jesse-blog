@@ -1,14 +1,13 @@
 ---
-author: jesse
-comments: true
-date: 2017-10-03 06:43:40 +0000
-layout: post
-link: http://jessemackinnon.com/2017/10/discovery-context-is-for-kings/
-slug: discovery-context-is-for-kings
 title: 'Discovery: Context is for Kings'
-wordpress_id: 589
+date: 2017-10-03 06:43:40 Z
 categories:
 - Star Trek
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/10/discovery-context-is-for-kings/
+wordpress_id: 589
 excerpt_separator: "<!--more-->"
 ---
 

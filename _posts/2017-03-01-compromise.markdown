@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-03-01 23:03:10 +0000
-layout: post
-link: http://jessemackinnon.com/2017/03/compromise/
-slug: compromise
 title: Compromise.
-wordpress_id: 521
+date: 2017-03-01 23:03:10 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - Republicans
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/03/compromise/
+wordpress_id: 521
 ---
 
 We've been in this phase of no compromise from the GOP whatsoever. And today I'm seeing a lot of pundits talking about compromising with Trump. Once again, let's examine how wrongheaded that thinking is.

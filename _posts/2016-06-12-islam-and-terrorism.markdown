@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2016-06-12 22:28:28 +0000
-layout: post
-link: http://jessemackinnon.com/2016/06/islam-and-terrorism/
-slug: islam-and-terrorism
 title: Islam and Terrorism.
-wordpress_id: 332
+date: 2016-06-12 22:28:28 Z
 categories:
 - History
 - Politics
@@ -14,6 +8,11 @@ tags:
 - Islam
 - Terrorism
 - Wahhabism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/06/islam-and-terrorism/
+wordpress_id: 332
 ---
 
 It’s very strange that people seem to be condemning Islam as a whole for the actions of a very specific sect of that religion. A religion which happens to span every continent, dozens of languages and ethnicities, and intersects with regional cultural practices in many varied ways.

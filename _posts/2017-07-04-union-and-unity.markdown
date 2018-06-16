@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-07-04 17:48:17 +0000
-layout: post
-link: http://jessemackinnon.com/2017/07/union-and-unity/
-slug: union-and-unity
 title: 'Union and Unity: Remembering Gettysburg in 2017'
-wordpress_id: 472
+date: 2017-07-04 17:48:17 Z
 categories:
 - History
 tags:
 - Civil War
 - Gettysburg
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/07/union-and-unity/
+wordpress_id: 472
 ---
 
 ## One hundred and fifty four years ago today concluded the largest battle fought upon this continent. Between the two armies, there were approximately 51,000 casualties. Remember these men today.

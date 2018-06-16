@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2015-08-27 18:32:37 +0000
-layout: post
-link: http://jessemackinnon.com/2015/08/your-problem-isnt-important-enough/
-slug: your-problem-isnt-important-enough
 title: Your problem isn't important enough.
-wordpress_id: 91
+date: 2015-08-27 18:32:37 Z
 categories:
 - Politics
 tags:
 - Activism
 - Social Justice
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/08/your-problem-isnt-important-enough/
+wordpress_id: 91
 ---
 
 “I don’t actually disagree with what this protest is trying to achieve, but I’m going to loudly attack them for wasting their time on a petty goal.”

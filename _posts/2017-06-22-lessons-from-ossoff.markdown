@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-06-22 02:44:05 +0000
-layout: post
-link: http://jessemackinnon.com/2017/06/lessons-from-ossoff/
-slug: lessons-from-ossoff
 title: Lessons from Ossoff.
-wordpress_id: 493
+date: 2017-06-22 02:44:05 Z
 categories:
 - Politics
 tags:
 - Democratic Party
 - Single Payer
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/06/lessons-from-ossoff/
+wordpress_id: 493
 ---
 
 The running joke going around that I really like is, "this last election proves that to win elections the Democratic Party should adopt my policy preferences.

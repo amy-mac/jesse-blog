@@ -1,12 +1,6 @@
 ---
-author: jesse
-comments: true
-date: 2017-09-11 17:54:36 +0000
-layout: post
-link: http://jessemackinnon.com/2017/09/ben-shapiro-free-speech/
-slug: ben-shapiro-free-speech
 title: In college, Ben Shapiro worked to undermine Free Speech.
-wordpress_id: 562
+date: 2017-09-11 17:54:36 Z
 categories:
 - Politics
 tags:
@@ -15,6 +9,11 @@ tags:
 - brietbart
 - Free Speech
 - ucla
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/09/ben-shapiro-free-speech/
+wordpress_id: 562
 excerpt_separator: "<!--more-->"
 ---
 

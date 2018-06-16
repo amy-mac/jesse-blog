@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2015-08-08 21:42:22 +0000
-layout: post
-link: http://jessemackinnon.com/2015/08/rules-for-a-new-star-wars-expanded-universe/
-slug: rules-for-a-new-star-wars-expanded-universe
 title: Rules for a new Star Wars Expanded Universe
-wordpress_id: 20
+date: 2015-08-08 21:42:22 Z
 categories:
 - Film and Media
 tags:
 - Star Wars
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/08/rules-for-a-new-star-wars-expanded-universe/
+wordpress_id: 20
 ---
 
 Let’s take off the rose colored glasses. Most of the Star Wars Expanded Universe was of questionable quality. It succeeded at the time because it had the charm of 1) being _Star Wars_ and 2) we were all fourteen. By the time the haphazard Bantam era was over, Del Rey took over the license and there was some modicum of editorial oversight. But there were still some significant problems: the main characters were in their 60s, the Empire was feeling very tired as a villain, and the continuity was severely disjointed. This led to the _New Jedi Order_ era, which presented a number of questionable creative decisions itself. The characters were denied any kind of "happily ever after" ending, and consigned to one masochistic character spiral after another.

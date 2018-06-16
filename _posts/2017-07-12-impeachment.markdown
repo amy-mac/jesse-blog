@@ -1,17 +1,16 @@
 ---
-author: jesse
-comments: true
-date: 2017-07-12 23:14:38 +0000
-layout: post
-link: http://jessemackinnon.com/2017/07/impeachment/
-slug: impeachment
 title: Impeachment?
-wordpress_id: 486
+date: 2017-07-12 23:14:38 Z
 categories:
 - Politics
 tags:
 - Donald Trump
 - Impeachment
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2017/07/impeachment/
+wordpress_id: 486
 ---
 
 I see impeachment is trending again. Here's a brief synopsis of the process it has to go through.

@@ -1,16 +1,15 @@
 ---
-author: jesse
-comments: true
-date: 2016-10-18 04:41:00 +0000
-layout: post
-link: http://jessemackinnon.com/2016/10/domitian-and-diocletian/
-slug: domitian-and-diocletian
 title: Domitian and Diocletian.
-wordpress_id: 447
+date: 2016-10-18 04:41:00 Z
 categories:
 - History
 tags:
 - Roman Empire
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2016/10/domitian-and-diocletian/
+wordpress_id: 447
 ---
 
 There's something that's been perplexing me, namely the different reactions to the policies of Domitian and Diocletian.

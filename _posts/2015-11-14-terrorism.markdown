@@ -1,27 +1,18 @@
 ---
-author: jesse
-comments: true
-date: 2015-11-14 01:25:11 +0000
-layout: post
-link: http://jessemackinnon.com/2015/11/terrorism/
-slug: terrorism
 title: Terrorism.
-wordpress_id: 233
+date: 2015-11-14 01:25:11 Z
 categories:
 - Politics
 tags:
 - Islamophobia
 - National Security
 - Terrorism
+author: jesse
+comments: true
+layout: post
+link: http://jessemackinnon.com/2015/11/terrorism/
+wordpress_id: 233
 ---
-
-
-
-
-
-
-
-
 
 I have that lurching feeling in my stomach like I'm falling. And an ache in my chest that can't go away. And that feeling in my head like I'm about to get struck by lightning.
 
