@@ -8,6 +8,14 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    author: jesse
+    comments: true
+    excerpt_separator: 
 email: mackinnon.jesse@gmail.com
 description: Random writings from a film and history nerd.
 baseurl: 
@@ -36,12 +44,3 @@ exclude:
 - vendor/gems/
 - vendor/ruby/
 - Rakefile
-defaults:
--
-  scope:
-    path: ""
-    type: "posts"
-  values:
-    author: "jesse"
-    comments: true
-    excerpt_separator:
