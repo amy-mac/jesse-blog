@@ -23,7 +23,6 @@ disqus:
   shortname: jessemackinnon
 markdown: kramdown
 repository: amy-mac/jesse-blog
-remote-theme: jekyll/minima
 plugins:
 - jekyll-feed
 - jekyll-paginate
