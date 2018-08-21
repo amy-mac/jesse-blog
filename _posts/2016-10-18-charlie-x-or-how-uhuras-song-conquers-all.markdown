@@ -15,6 +15,8 @@ wordpress_id: 453
 
 Upon a second viewing, I’ve actually revised my opinion of this episode upward. I’m no longer putting it in my “Red Shirt” category of episodes I think should be skipped. I now think this is a critical episode of Star Trek, in spite of some difficult scenes, and here’s why.
 
+<img src="/images/2016/charliexhd007-1024x768.jpg" alt="">
+
 Let’s start with the strengths.
 
 One of the reasons that I liked this episode more than I remembered was that it showed a slice of life aboard the Enterprise. There are extras having fun, of both genders. Some of these bit characters have names, and the main characters interact with them fondly. This is so important because as the series progressed and budgets tightened, guest stars and extras became scarce. At times it felt like the leads were just wandering around an empty ship on their own. Part of the concept for Star Trek was “Wagon Train to the Stars,” after all, and that entails having a community, not just a flying hunk of metal.

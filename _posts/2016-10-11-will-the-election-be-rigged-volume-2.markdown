@@ -14,6 +14,8 @@ wordpress_id: 444
 
 Today on the campaign trail, Donald J. Trump once again raised the possibility of electoral fraud in November.
 
+<img src="/images/2016/Fresno-State-polling-place.jpg" alt="">
+
 Let's take a moment to remember who runs our elections: the individual States do. There's a position that we vote for every four years, mostly called the Secretary of State. There is no relation to the Federal position; the SoS in the various states tend to be tasked with record keeping, and administering elections.
 
 And what do you know, being an elected position, a simple Google search will show you who they are in each state. Currently, 28 of the 50 states have a Republican serving in this position (or its equivalent).

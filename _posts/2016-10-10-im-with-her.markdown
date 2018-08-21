@@ -14,6 +14,8 @@ wordpress_id: 439
 
 Given the massive amount of shit in the shape of an Oompa Loompa on the debate stage, there was not as much policy on stage as their should have been. So here’s why I’m voting for Hillary Clinton.
 
+<img src="/images/2016/clinton-768x522.jpg" alt="">
+
 It has nothing to do with her opponent. If you think that “flawed” is somehow going to factor into this analysis, [I have a few choice words for you](http://jessemackinnon.com/2016/07/belief-hatred-and-the-democratic-primary/).
 
 ## HEALTH CARE

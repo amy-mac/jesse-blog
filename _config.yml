@@ -26,15 +26,20 @@ permalink: "/:year/:month/:title/"
 header_pages:
 - about.md
 category_path: categories
+twitter:
+  username: jessethemac
+  card: summary
 twitter_username: jessethemac
 disqus:
   shortname: jessemackinnon
+google_analytics: UA-81724116-1
 markdown: kramdown
 repository: amy-mac/jesse-blog
 plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-category-pages
+- jekyll-seo-tag
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -43,4 +48,5 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+- README.md
 - Rakefile
