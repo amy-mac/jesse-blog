@@ -13,6 +13,7 @@ layout: post
 link: http://jessemackinnon.com/2016/10/tonights-vp-debate-a-primer-and-some-predictions/
 wordpress_id: 433
 ---
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Today&#39;s Vice Presidential Debate:<br><br>Dad letting you borrow beer for your party<br><br>Vs<br><br>Dad forcing you to practice baseball at 4 am <a href="https://t.co/2YhbcTDWfz">pic.twitter.com/2YhbcTDWfz</a></p>&mdash; Mike Drucker (@MikeDrucker) <a href="https://twitter.com/MikeDrucker/status/783295117536866304?ref_src=twsrc%5Etfw">October 4, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
